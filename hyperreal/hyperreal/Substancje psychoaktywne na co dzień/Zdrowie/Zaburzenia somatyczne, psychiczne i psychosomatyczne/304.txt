@@ -1,0 +1,191 @@
+niedoczynnosc tarczycy
+https://hyperreal.info/talk/niedoczynnosc-tarczycy-t45328.html
+
+thalchemist
+
+ 262 /
+ 1 /
+ 0 
+
+niedoczynnosc tarczycy
+Nieprzeczytany post
+autor: thalchemist » 
+08 września 2015
+
+ Cytuj
+
+ Zgłoś
+
+Mam delikatna niedoczynnosc tarczycy, nie dostane tyroksyny bo mam schizofrenie i lekarz boi sie, ze mnie pobudzi(idiota). Jak poglebic niedoczynnosc tarczycy? Chce dostac śpiączki i umrzec. Na leki na depresje tez nie ma szans bo llekarze sie boja ze leki mnie pobudza i poglebia schizofrenie.
+
+jesli czytasz moj post, wez pod uwage ze jestem cyborgiem pod wzgledem tolerancji
+·······························································
+zecer
+
+ 86 /
+ 3 /
+ 0 
+
+Re: niedoczynnosc tarczycy
+Nieprzeczytany post
+autor: zecer » 
+08 września 2015
+
+ Cytuj
+
+ Zgłoś
+
+zmień lekarza
+·······························································
+thalchemist
+
+ 262 /
+ 1 /
+ 0 
+
+Re: niedoczynnosc tarczycy
+Nieprzeczytany post
+autor: thalchemist » 
+08 września 2015
+
+ Cytuj
+
+ Zgłoś
+
+Bylem juz u kilku lekarzy, kazdy boi sie przepisac cos co mnie pobudzi w jakikolwiek sposob (tyroksyna pobudza), bo niby poglebi mi sie schizofrenia. Zycie na lekach na schizofrenie to nie zycie, w dodatku przez niedoczynnosc tarczycy jestem gruby. Ponawiam pytanie : 
+JAK POGLEBIC NIEDOCZYNNOSC TARCZYCY?
+
+jesli czytasz moj post, wez pod uwage ze jestem cyborgiem pod wzgledem tolerancji
+·······························································
+TheFlash
+
+ 734 /
+ 55 /
+ 0 
+
+Re: niedoczynnosc tarczycy
+Nieprzeczytany post
+autor: TheFlash » 
+26 stycznia 2016
+
+ Cytuj
+
+ Zgłoś
+
+Najlepiej będzie jak najpierw opiszę mechanizm działania i patogeneze niedoczynności tarczycy, żeby nie było że wyssalem sobie to wszystko z palca. 
+jeśli jest niedoczynnośc spowodowana stricte tarczycą (np stan zapalny - hashimoto) to wygląda to tak ze przy niedobrze produkcji t3 i t4 jest wzrost produkcji tsh czyli tyreotropiny (może byc tez bezobjawowe kiedy t3 i t4 masz w nnormie jedjak to malo wazne skoro u Ciebie diagnoza juz jest). rzadziej jest to problem idący z przysadki. Przysadka wytwarza tsh który reguluje produkcję t3 i t4, a te zaś na zasadzie ujemnego sprzężenia regulują produkcję tsh - czyli jeśli tsh spowoduje produkcję t3 i t4 na odpowiednim poziomie, to przysadka dostaje informacje żeby przestać produkować więcej tsh i tak one regulują wzajemnie swoją produkcję. kiedy jest nadczynność to tarczyca produkuje t3 i t4 bez względu na udział tsh, przysadka dostaje informacje o nadmiarze t3 i t4 wiec przestaje w mechanizmie obrony, produkcji tsh, żeby nie nasilać nadmiaru tamtych dwóch - tutaj jest odwrotnie. teraz jest kwestia tego typu ze może być też niedoczynnośc spowodowana nieregularne ilością jodu w organizmie (t3-trojjodotyronina powstaje z t4 i to ona jest hormonem czynnym pobudzającym metabolizm i jest rozkładana w tkankach lokalnych przez dejodynazy ); równie dobrze ale rzadziej zdarza się problem z produkcją tsh w przysadc. najlepiej gdybyś miał lub zrobił badania żeby uzyskać wyniki pomiarów ft3 i ft4 czyli wolnych od białek ilości hormonów, i zawartość ich względem tsh. skoro boją się przepisać tyroksyne to moim zdaniem można spróbować skupić się na t3 lub regulacji tsh. Ogólnie rzecz biorąc to t3 jest produkowane bezpośrednio przez tarczyce chyba tylko 1/5, pozostałe ilości są brane z rozkładu t4 do t3 w tkankach docelowych, i to ilość lokalna t3 w tkankach reguluje pracę tsh co zas zamyka kolo regulujac t4 które produkuje 80%t3 itd itd.. z tym ze t4 jest ok 3x więcej niz t3 w tarczycy . w skrócie to małe zmiany t3 powodują duże zmiany tsh, a duże zmiany tsh powodują zmiany produkcji t4 tworzac błędne koło. myślę że najlepiej byłoby się skupić na gospodarce jodowej w organizmie, co wpłynie na regulację t3 - może to jest rozwiązanie jakieś ? nie widziałem wyników badań ale warto wiedzieć tez ze nie zawsze zmiany w poziomie hormonów tarczycy znaczą o jej problemach bo jest wiele chorób które maja bezpośredni wpływ na wzmożone lub zredukowane rozkładanie t3 a w mechanizmie ujemnego sprzężenia zwrotnego jest ten kłopot i paradoksalnie plus jednocześnie, ze jedno ogniwo ma wpływ na caly łańcuch. 
+fuck.. dawno to było na studiach wiec jeśli coś popieprzylem to proszę o uwagi, chętnie sam się czegoś więcej dowiem
+
+Umiem wymusić okup, ściągnąć haracz, jebnąć ze łba.
+Gwałty na zlecenie, bez zlecenia zresztą też.
+amfetamina – produkcja, dystrybucja, masturbacja.
+Brawurowa jazda samochodem Cinquecento.
+·······························································
+SandS
+
+ 908 /
+ 72 /
+ 19
+
+Re: niedoczynnosc tarczycy
+Nieprzeczytany post
+autor: SandS » 
+01 czerwca 2017
+
+ Cytuj
+
+ Zgłoś
+
+26 stycznia 2016TheFlash pisze: 
+
+jeśli jest niedoczynnośc spowodowana stricte tarczycą (np stan zapalny - hashimoto
+
+(może byc tez bezobjawowe kiedy t3 i t4 masz w nnormie)
+
+Niedoczynność spowodowana stricte tarczycą to właśnie zwykła niedoczynność i tyle.
+
+Natomiast Hashimoto jest spowodowane (tak, jak piszesz) - przez stan zapalny, a nie samą dysfuncję tarczycy - czyli problem ma źródło w przysadce.
+
+Druga rzecz - co to jest "niedoczynność bezobjawowa przy prawidłowych wynikach"?
+Jeżeli nie mamy objawów, a wyniki są w normie, to o czym mówimy?
+Chyba, że chodziło Ci o niedoczynność podkliniczną, gdy mamy wyniki w normie, a mimo to, nadal SĄ objawy (a Ty napisałeś, że nie ma tego i tego - to się nazywa stan prawidłowy).
+
+Is it time for your medication, Mr. Brown?
+·······························································
+T800
+
+ 118 /
+ 7 /
+ 0 
+
+Re: niedoczynnosc tarczycy
+Nieprzeczytany post
+autor: T800 » 
+01 lipca 2017
+
+ Cytuj
+
+ Zgłoś
+
+To może ktoś powie o co chodzi u mnie zanim drugi raz przejdę się do lekarza? :/
+
+Chodzi o to, że w marcu dostałem ataku paniki. Źle zacząłem tolerować leki (wenlafaksyna), nawet jej bardzo niska dawka powodowała tachykardię. Potem dostałem kolejnego. Postanowiłem, że pójdę zobaczyć, co się dzieje i zbadam poziomy hormonów tarczycowych. Okazało się, że mam podwyższone TSH, FT4 i ilość przeciwciał wynosi u mnie 10 (norma to 34 ale ponoć nie powinno w ogóle ich być). USG wykazało pomniejszenie, bardzo mała objętość (10ml) i "niejednorodny miąższ". Zacząłem brać lewotyroksynę przepisaną przez endo. Pobrałem chwilę i ataki paniki/lękowe ustały. Nagle zacząłem czuć ogromną drażliwość i wpadłem raz w szał (napieprzałem w krzesło ze złości  ) Po takim czymś postanowiłem, że ją odstawie całkowicie zamiast zredukować dawkę. Po 2 dniach zacząłem mieć czerwone plamy na twarzy z których potem zaczęła wysuszać się skóra i odpadać małymi płatkami. Znowu zacząłem czuć bezpodstawny wkurw. Poszedłem zrobić kolejny raz badanie i wyniki jeszcze gorsze. TSH wskoczyło na 7, a FT4 lekko przekroczone ponad normę. Przeprosiłem się z tyroksyną i po paru dniach, pomimo unormowaniu cery na twarzy, zacząłem czuć się dosłownie jak gówno. Całkowicie zdrenowany z energii. Od 16 dni wychodzę z łóżka tylko po jedzenie i załatwienie potrzeb fizjologicznych... A w ostatnich dniach zacząłem czuć pustą stymulację fizyczną (takie uczucie podobne do wypicia za dużo kawy) a mimo to jestem dalej skrajnie zmęczony i paradoksalnie apatyczny. Chcę mi się spać a i tak nie mogę zasnąć przez długi czas... Ponadto pojawiły się pseudo-paranoidalne myśli (przedtem jeszcze miałem natrętne myśli nt. skrzywdzenia osób mi bliskich, typowe OCD). Kolejnym problemem jest... skrajnie zwiększone libido od 3 dni pomimo ogromnej apatii i zmęczenia... Od czasu dojrzewania płciowego nie miałem tak podbitego libido jak teraz i choć może niektórych to zdziwi - wcale nie jest to przyjemne. A, no i budzę się z szybciej bijącym sercem i niepokojem. Czekam na lekarza, bo co zrobię? Psychiatrze napisałem o pseudo-paranoidalnych myślach to mówił, że chcę spróbować mnie wrzucić na arypiprazol i zobaczyć czy nie zaczyna się jakaś psychoza. Dlaczego dostałem tyroksynę pomimo podwyższonego FT4 i TSH? Any ideas?
+·······························································
+martusse
+
+ 2 /
+ /
+ 0 
+
+Re: niedoczynnosc tarczycy
+Nieprzeczytany post
+autor: martusse » 
+25 października 2018
+
+ Cytuj
+
+ Zgłoś
+
+Nie wiem czemu lekarz nie poinformował Cie o tym przy przypisaniu leków, ale tarczyca nie wyreguluje sie po pierwszej dawce leków. Ja potrzebowałam paru miesięcy w ciągu których poziom TSH najpierw mi podskoczył, dopiero na wizycie po pol roku regularnego brania leków wyniki były w normie. W tym czasie nasilenie się takich obiawów jest normalne.
+
+Uwaga! Użytkownik martusse nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+taurinnn
+
+ 2430 /
+ 564 /
+ 155
+
+Re: niedoczynnosc tarczycy
+Nieprzeczytany post
+autor: taurinnn » 
+26 października 2018
+
+ Cytuj
+
+ Zgłoś
+
+Często leczenie trzeba prowadzić nawet do końca życia. Jeśli zaburzenia poziomu hormonów nie mają charakteru przejściowego (czyli mamy do czynienia z przewlekłą niedoczynnością tarczycy) to zwykle trzeba jechać na tyroksynie do końca życia.
+
+Uwaga! Użytkownik taurinnn nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+T800
+
+ 118 /
+ 7 /
+ 0 
+
+Re: niedoczynnosc tarczycy
+Nieprzeczytany post
+autor: T800 » 
+26 października 2018
+
+ Cytuj
+
+ Zgłoś
+
+Że ktoś jeszcze odpisał ;o 
+
+Tak czy siak, z tarczycą nic się nie działo. Hashimoto nie mam. A to zdrenowanie z energii to była wina lekkiej nadczynności (moron endokrynolog dał mi letrox przy zawyżonym ft4) - jest takie coś jak apatyczna nadczynność tarczycy. Skoki TSH i FT4 rzekomo od leków. Ale nadal mam problem z łuszczycą, trądzikiem, zawyżonym DHEA, tachykardią, jelitami i potliwością pod pachami ¯\\\_(ツ)\_/¯
+
+Tylko dziwne, że po letroxie miałem wysokie libido. Teraz nie mam go wcale, a hormony są w normie ¯\\\_(ツ)\_/¯

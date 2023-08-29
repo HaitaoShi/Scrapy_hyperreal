@@ -1,0 +1,135 @@
+Jakie badanie do ustalenia fizycznego uszkodzenia mózgu ?
+https://hyperreal.info/talk/jakie-badanie-ustalenia-fizycznego-uszkodzenia-mozgu-t43061.html
+
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Jakie badanie do ustalenia fizycznego uszkodzenia mózgu ?
+Nieprzeczytany post
+autor: tur3k » 
+23 września 2014
+
+ Cytuj
+
+ Zgłoś
+
+Jak wyżej. 
+Wiem z pewnych dokumentów medycznych, że od urodzenia mam uszkodzony układ dopaminergiczny (lekkie zaburzenia ruchowe), do tego mam od dłuższego czasu potwierdzoną anhedonię, na którą pirybedyl wraz z moklobemidem są skutecznymi lekami.
+
+Pytanie brzmi: o jakie badanie powinienem poprosić psychiatrę, abym miał to na papierze ? Zależy mi na jak dokładniejszych wynikach. Stawiam na fMRI, ale mogę się mylić i stąd to pytanie. Przy okazji sprawdzenie działania struktur układów odpowiedzialnych za inne neuroprzekaźniki też by się przydało. Da się to załatwić jak terrorysta, tj. za jednym zamachem ? ;] Wiem, że prywatnie to będzie kosztować wpiździec i jeszcze więcej, dlatego kolejne pytanie brzmi czy jest możliwy zrobienie jakiegoś przekrętu, aby badanie zlecone przez prywatnego psychiatrę zostało zrealizowane na koszt NFZ-tu ?
+
+Liczę na was bo to dla mnie bardzo ważna sprawa, buziaki )
+
+No one survived.
+·······························································
+Parathormon
+
+ 3871 /
+ 204 /
+ 13
+
+Re: Jakie badanie do ustalenia fizycznego uszkodzenia mózgu
+Nieprzeczytany post
+autor: Parathormon » 
+23 września 2014
+
+ Cytuj
+
+ Zgłoś
+
+Badania MRI w ogóle nie są finansowane przez NFZ z moich informacji (koszt MRI głowy to około 500pln); wchodzi jeszcze w grę CT, które to już jest refundowane dla pacjentów ze schorzeniami neurologicznymi. Badania rozmieszczenia receptorów w mózgu i ich reakcji na ligand to badania PET-CT, czyli takie obustronne CT - najpierw zwyczajny skan CT, a później badanie polegające tylko na detekcji promieniowania gamma, którego źródłem jest radioaktywny izotop (najczęsciej węgla) wbudowany w cząsteczkę substancji kontrastującej znacznika podanej IV w trakcie badania (w wypadku badania rec. dopaminowych będzie to jakiś syntetyczny, selektywny ligand receptorów dopaminowych).
+
+Aby dostać skierowanie na CT musisz najpierw dostać skierowanie od rodzinnego do neurologa, który może cię skierować na tomograf; prywatne wizyty nie wchodzą w grę jeżeli gabinet nie ma umowy z NFZ, ewentualnie możesz poszukać prywatnej kliniki, która ma na wyposażeniu odpowiedni sprzęt i tam już wszystko załatwić, jak piszesz, za jednym zamachem, ale to może trochę kosztować.
+
+Wkońcu zmęczony, bez sił i ochoty, bez domu i imienia w kanale zapomnienia;
+·······························································
+bladzimierz
+
+ 54 /
+ 1 /
+ 0 
+
+Re: Jakie badanie do ustalenia fizycznego uszkodzenia mózgu 
+Nieprzeczytany post
+autor: bladzimierz » 
+24 września 2014
+
+ Cytuj
+
+ Zgłoś
+
+Jeżeli chodzi o MRI głowy to nie problem jest dostać skierowanie, jednak trzeba trochę poczekać. Ja czekalem jakieś 4 miesiące. Robiłem to ostatnio i za nic nie musiałem płacić. Swoją drogą badanie w końcu wykazało u mnie jakieś uszkodzenia, ale tak na prawdę nic to nie zmieniło w moim życiu - stąd zastanowił bym sie jeszcze raz nad celowością takiego badania. Z PET może być większy problem, gdyż niewiele ośrodków ma wymagany do tego sprzęt, między innymi przez to że wytwarzanie tych znakowanych związków jest kosztowne i wymaga posiadania odpowiedniej aparatury na miejscu. Z powodu słabej dostępności też mniej lekarzy będzie chętnych wystawić skierowanie. Poza tym w PET nie bada się rozmieszczenia receptorów tylko ogólny metabolizm komórek, przez podanie znakowanej glukozy. Inne badania nawet jeżeli bedą możliwe do wykoniania raczej nie będą refundowane przez NFZ. Jeżeli chcesz się badać to polecam zacząc od wizyty u neurologa, powinien spokojnie wystawić skierowanie na MRI, potem pozostaje tylko czekać. Rezonans może uchwycić ewentualnie zmiany strukturalne. Jeżeli chodzi o jakieś zmiany w funkcjonowaniu struktur to należy prosić o badanie PET. Na pewno nie da się czegoś takiego załatwić "od ręki". Ja osobiście bym sobie odpuscił taką zabawę, bo wyniki raczej nie spełnią twoich oczekiwań, tylko pieniadze pójdą w błoto.
+·······························································
+Parathormon
+
+ 3871 /
+ 204 /
+ 13
+
+Re: Jakie badanie do ustalenia fizycznego uszkodzenia mózgu 
+Nieprzeczytany post
+autor: Parathormon » 
+24 września 2014
+
+ Cytuj
+
+ Zgłoś
+
+bladzimierz pisze:Z PET może być większy problem 
+Tak - PET nie jest refundowane - tego to już jestem pewien w przeciwieństwie do tego MRI ;).
+bladzimierz pisze:Poza tym w PET nie bada się rozmieszczenia receptorów tylko ogólny metabolizm komórek, przez podanie znakowanej glukozy.
+I tu się kolego mylisz; wszystko zależy od tego jakiego znacznika użyje się w badaniu. Kiedy podana zostanie radioaktywna glukoza to jest tak jak piszesz, ale można także podać inne substancje (m.in. selektywne ligandy receptorów) - wtedy znacznik ulega rozmieszczeniu odpowiadającemu naturalnemu zagęszczeniu docelowych receptorów w docelowych tkankach - przykładem jest użycie radioaktywnego (cząsteczka zbudowana z radioaktywnych atomów izotopu węgla C11) 25I-NBOMe w badaniu stężenia receptorów serotoninowych w mózgu.
+
+Wkońcu zmęczony, bez sił i ochoty, bez domu i imienia w kanale zapomnienia;
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: Jakie badanie do ustalenia fizycznego uszkodzenia mózgu
+Nieprzeczytany post
+autor: tur3k » 
+30 września 2014
+
+ Cytuj
+
+ Zgłoś
+
+Dzięki wielkie panowie za konkretne odpowiedzi. Mam dwa cele:
+
+1) zobaczyć coś takiego i sprawdzić ile tych neuronów/receptorów mam (dopamina i gaba)
+2) prześledzić aktywność komórek powyższych (w sensie gdzie są jakieś braki w przewodnictwie, gdzie cząsteczka nie łączy się tam gdzie powinna lub robi to w jakiś nietypowy i niewłaściwy sposób). To chyba tym PET-CT co wspomniał Parathormon powinno dać radę.
+
+I na tej podstawie dobrać najlepszą farmakoterapię z możliwych. A także dowiedzieć się, w jak bardzo dużym stopniu mam spierdolony mózg i drogą dedukcji, długich rozmyślań i analiz czy winą są zjebane geny (które z pewnością posiadam) czy coś innego (dragi też, lecz nie tylko).
+
+No one survived.
+·······························································
+Parathormon
+
+ 3871 /
+ 204 /
+ 13
+
+Re: Jakie badanie do ustalenia fizycznego uszkodzenia mózgu
+Nieprzeczytany post
+autor: Parathormon » 
+30 września 2014
+
+ Cytuj
+
+ Zgłoś
+
+Turek pisze:1) zobaczyć coś takiego i sprawdzić ile tych neuronów/receptorów mam (dopamina i gaba)
+2) prześledzić aktywność komórek powyższych (w sensie gdzie są jakieś braki w przewodnictwie, gdzie cząsteczka nie łączy się tam gdzie powinna lub robi to w jakiś nietypowy i niewłaściwy sposób). To chyba tym PET-CT co wspomniał Parathormon powinno dać radę.
+To właśnie jest obraz z PET-CT z radioaktywnym znacznikiem w postaci selektywnego agonisty rec. dopaminowych, czyli twoja lista celów zawiera jedną pozycję.
+
+Druga sprawa - ty jako laik to sobie tak wymyśliłeś, ale lekarz postąpi i tak wedle własnej, fachowej wiedzy, a jego postępowanie niekoniecznie musi się pokryć z Twoim wyobrażeniem. Od początku mogę Cię zapewnić, że nie odkryje "zjebanego gena" - badania genetyczne są po pierwsze drogie, po drugie bardzo ukierunkowane, po trzecie nie ma badania na obecność "zjebanego gena" i w ogóle jest mało możliwości przebadania genomu w taki sposób aby jeszcze z tego była jakaś sensowna konkluzja. Badania przeprowadza się pod konkretny gen, ale to tak jak strzelanie na oślep w tłum by ustrzelić konkretną osobę - można sobie zgadywać. A w ogóle to całe postępowanie będzie i tak pełne nieoczekiwanych zwrotów akcji w zależności od wyników diagnostyki (która nota bene może wyjść w normie tobie na złość :P )
+
+Pewnikiem badanie pet-ct zostanie potraktowane jako ciekawostka (jeżeli w ogóle do niego dojdzie), a ty i tak dostaniesz xxRI/TLPD/IMAO czy inne gówno
+
+Wkońcu zmęczony, bez sił i ochoty, bez domu i imienia w kanale zapomnienia;

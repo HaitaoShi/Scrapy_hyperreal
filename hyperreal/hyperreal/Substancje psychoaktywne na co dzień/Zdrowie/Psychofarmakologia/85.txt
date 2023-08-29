@@ -1,0 +1,1166 @@
+Badania i publikacje farmakologiczne
+https://hyperreal.info/talk/badania-publikacje-farmakologiczne-t30197.html
+
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+28 grudnia 2010
+
+ Cytuj
+
+ Zgłoś
+
+W tym wątku znajdziecie badania i publikacje na tematy związane z farmakologią. 
+Teksty zbyt krótkie by zakładać nowe tematy powinny sie znaleść w tym temacie. Odpowiedzi które są komentarzami nt. badan będą usuwane, chyba że mają one ścisły związek z tekstem zamieszczonym np. sugestie popraw, sugestie po poprawie tekstu będa również usuwane. 
+
+Prosze umieszczcać tutaj tylko rzeczy które są podane w temacie. 
+Dla tabelek Ki, EC50 itp., interesujących środków zostanie założony oddzielny wątek
+
+Gdy znajdzie sie tu kilka streszczeń na temat kilku publikacji, zrobie w tym miejscu spis treści
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+AM 251
+Nieprzeczytany post
+autor: Mayday » 
+28 grudnia 2010
+
+ Cytuj
+
+ Zgłoś
+
+[ external image ]
+AM251 - Wiki
+
+Tytuł publikacji: Wpływ antagonisty receptora kannabinoidowego CB1 AM251 na przywrócenie preferencji pomieszczeniowej warunkowanej nikotyną przez podanie środka na szczurze.
+
+Abstrakt: Tytoń i konopie należą do najczęsciej używanych używek przez ludzi, ostatnio doniesiono o funkcyjnej interakcji między nikotyną a kannabinoidami. Celem tychże badań jest rozwinięcie pojęcia roli receptora kannabinoidowego CB1 w przywracaniu preferencji pomieszczeniowej wywołanej nikotyną. Preferencje pomieszczeniowe zostały określone (trzy-dniowe sesje nikotynowe, 0,5mg/kg), zniesione oraz przywrócone przez pierwszorzędną dawke nikotyny. Zostało pokazane że antagonista receptora CB1 AM251 (0,25mg i 0,5mg/kg) osłabia przywrócenie uwarunkowania miejscowego wywołanego nikotyną.
+Badania te sugerują role receptorów kannabinoidowych CB1 w zapobieganiu przywrócenia użależnienia od nikotyny.
+
+Link: http://www.if-pan.krakow.pl/pjp/pdf/2009/2_304.pdf
+
+W preferencjach pomieszczeniowych wywołanych nikotyną chodzi o to że np.: szczurą podawano nikotyne w klatce z czarnymi scianami, a w białych odpoczywały. Gdy znajdywały sie w czarnym pomieszczeniu czuły większą ochote na nikotyne gdyż z tym pomieszczeniem kojarzyło im sie podawanie nikotyny
+
+Myśle że więcej niż abstraktu niema sensu tłumaczyć, być może koncówka o nazwie dyskusja może być przydatna lecz jest tego wiecej a niemam tyle czasu, więc jak narazie będe skupiał sie na abstraktach, badanie jest z PHARMACOLOGICAL REPORTS pisanych przez polaków wrzuce jeszcze kilka ich badan gdyż niektóre są naprawde ciekawe
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+5-HT
+Nieprzeczytany post
+autor: Mayday » 
+28 grudnia 2010
+
+ Cytuj
+
+ Zgłoś
+
+[ external image ]
+
+Tytuł publikacji: Depresja kręgowego refleksu monosynaptycznego wywołana 5-HT wykorzystuje różne typy receptorów 5-HT zależnie od dostępności Mg++.
+
+Abstrakt: Podtypy receptorów związanych z depresją (osłabieniem) synaptycznej transmisji w noworodkowych kręgosłupach szczurów wywołanej 5-hydroksytryptaminą (5-HT, serotonina) in vivo zostały określone w otoczeniu w obecności lub nieobecnośći Mg++. Stymulacja grzbietowego rdzenia wywołana monosynaptycznym potencjałem refleksyjnym (MSP-monosynaptic reflex potential) i polisynaptycznym potencjałem refleksyjnym (PSP-polysynaptic reflex potential) w segmentalnym rdzeniu brzusznym w otoczeniu wolnym od Mg++ gdzie blokada użależniona-napięcowo w receptorach NMDA jest nieobecna. 5-HT (0.3–50 μM) w otoczeniu wolnym od Mg++ osłabiał MSP i PSP w sposób zależny od koncentrakcji. Przy 30 μM 5-HT, depresja wynosiła 57% i 95% dla MSP i PSP, kolejno, oraz nie zauważono żadnej dalszej depresji przy 50 μM. Depresja refleksu wywołana 5-HT w otoczeniu wolnym od Mg++ została zablokowana przez ondansetron (antagonista 5-HT3), lecz nie spiperon (5-HT2A/2C). W otoczeniu wolnym od Mg++, fenylbiguanid (agonista 5-HT3, phenylbiguanide po ang.) również osłabił MSP i PSP w sposób zależny od koncentracji oraz został zablokowany przez ondansetron. Dodanie Mg++ (1.3 mM) do otocznia zniosło PSP oraz zmniejszyło MSP o 30%. W obecności Mg++, 5-HT (1–50 μM) również osłabił MSP w sposób zależny od dawki. Przy 10 μM 5-HT, depresja wynosiła 20% a przy 50 μM depresja osiągneła 100%. Depresja MSP i PSP wywołana przez 5-HT w środowisku zawierającym Mg++ została zantagonizowana przez spiperon (p < 0.05, two-way ANOVA), lecz nie ondansetron. Wyniki wskazują że depresja MSP wywołana 5-HT obejmuje receptory 5-HT3 w otoczeniu wolnym od Mg++ a 5-HT2A/2C w obecności Mg++ gdy receptory NMDA są w stanie zamkniętym.
+
+Link: http://www.if-pan.krakow.pl/pjp/pdf/2009/2_261.pdf
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+CB1
+Nieprzeczytany post
+autor: Mayday » 
+29 grudnia 2010
+
+ Cytuj
+
+ Zgłoś
+
+[ external image ]
+Rimonabant - Wiki
+
+Tytuł publikacji: Efekt blokady systemu endokannabinoidowego przez antagonizm CB1 na ryzyko układu sercowo-naczyniowego
+
+Abstrakt: System endokannabinoidowy jest ważnym graczem w procesach zapaleniowych leżących u podstaw rozwoju miażdżycy. Ostatnio, zasadnicze badania i modele zwierzęce, mocno poparły role systemu endokannabinoidowego nie tylko w regulacji klasycznych czynników ryzyka układu sercowo-naczyniowego (włączając profil lipidowy i homeostaza glukozowa), lecz także w aktywacji komórek odpornościowych i mediatorów zapalenia. Kliniczne próby badające leczenie rimonabantem (selektywny antagonista CB1) zasugerowały korzystne działanie w regulacji otyłości. Dalsze badania są konieczne do odkrycia możliwego zastosawnia rimonabantu w leczeniu cukrzycy typu 2 oraz ostrych i przewlekłych chorób układu krążenia. Pomimo niewielkiego wzrostu działan niepożądanych (głównie psychiatryczne), co doprowadziło ostatnio do wycofania rimonabantu z rynku, antagonizm receptora CB1 może stanowić bardzo obiecującą strategie terapeutyczną do obniżenia ryzyka sercowo-naczyniowego. 
+
+http://www.if-pan.krakow.pl/pjp/pdf/2009/1_13.pdf
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+PRE-084
+Nieprzeczytany post
+autor: Mayday » 
+29 grudnia 2010
+
+ Cytuj
+
+ Zgłoś
+
+[ external image ]
+PRE-084 - Wiki
+
+Tytuł publikacji: Antydepresyjno podobne efekty PRE-084, selektywnt agonista receptora sigma1, w myszach Albino Swiss i C57BL/6J.
+
+Abstrakt: PRE-084, selektywny agonista receptora sigma, wykazał przeciwdepresyjno-podobny efekt w wymuszonym teście pływania (FST-forced swim test) w myszach Albino Swiss i C57BL/6J. Temu działaniu przeciwdziałał BD 1047 (5mg i 10mg/kg) lecz nie SM-21 (3 i 10mg/kg), którzy są, kolejno, antagonistami receptora sigma1 i sigma2. Wyniki te wskazały że PRE-084 ma efekty przeciwdepresyjno-podobne w C57BL/6J i, w mniejszej miarze, w myszach Albino Swiss. Te rezultaty podtrzymują idee że recpetory sigma1, lecz nie receptory sigma2, mają swój wkład w mechanizmie aktywności przeciwdepresyjnej agonistów sigma w FST.
+
+http://www.if-pan.krakow.pl/pjp/pdf/2009/6_1179.pdf
+
+Ostatnio zmieniony 05 kwietnia 2012 przez Mayday, łącznie zmieniany 1 raz.
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Sildenafil i kokaina
+Nieprzeczytany post
+autor: Mayday » 
+30 grudnia 2010
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł publikacji: Brak efektów sildenafilu (viagry) na drgawki wywołane kokainą w myszach.
+
+Abstrakt: Drgawkowe działanie kokainy oraz prokonwulsywne (mogące wywołać drgawki) działanie sildenafilu, leku który jest powszechnie używany do leczenia dysfunkcji wzwodu, zostało udokumentowane zarówno w ludziach jak i myszach. Albowiem doniesiono że sam sildenafil, jak i w połączeniu z kokainą jest używnay rekreacyjnie, niniejsze badanie zostało wykonane by zbadać wpływ sildenafilu na wywołane-kokainą drgawki w myszach. Pokazaliśmy że podanie sildenafilu (5–20 mg/kg, ip) nie miało wpływ na częstość klonicznych na drgawki wywołanych podaniem ip kokainy w dawkach 85 mg/kg, ani nie miało wpływu na częstośc drgawek i śmiertelność. Wnioskujemy że sildenafil nie zwiększa znacząco ryzyka drgawek przez wspólne podanie z kokainą.
+
+http://www.if-pan.krakow.pl/pjp/pdf/2009/5_930.pdf
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+21 stycznia 2011
+
+ Cytuj
+
+ Zgłoś
+
+[ external image ]
+
+Tytuł: Występowanie kannabimimetycznej cząsteczki 2-sciadonoylglicerol (2-eicosa-5',11',14'-trienoylglycerol) w nasionach Sciadopitys verticillata.
+
+Abstakt: W nasionach Sciadopitys verticillata stwierdzono obecność istotnej (16,7 nmol/g) ilości kwasu sciadonicznego (all-cis-5,11,14-eicoatrienoic acid)- zawierający 2-monoacyloglicerol, np. 2-sciadonoyglycerol (2-eicosa-5',11',14'-trienoyglycerol). Ponieważ struktura 2-sciadonoyglycerolu (2-ScG) bardzo przypomina tą od 2-arachidonoyglicerolu (2-AG), naturalnego endogenicznego liganda receptora kannabinoidowego, zbadaliśmy czy 2-sciadonoyglycerol wykazuje aktywność kannabimimetyczną używając komórek hybrydowych NG108-15 neuroblastoma X glioma które zawierają kannabinoidowy receptor CB1. Odkryliśmy że 2-sciadonoyglycerol powoduje nagły chwilowy wzrost stężenia wolnego wewnątrzkomórkowego Ca++ w komórkach NG-108-15, przez mechanizm zależny od kannabinoidowego receptora CB1, podobnie do 2-AG, lecz aktywność 2-sciadynoyglicerolu była najwyrażniej niższa niż ta 2-arachidnoyglicerolu. Aktywność 2-sciadonoyglicerolu była wykrywana od 3-10nM osiągąjąc maksimum przy około 10µM. Według naszej wiedzy, jest to pierwszy raport okazujący występowanie kannabimimetycznego monoacylglicerolu w roślinach wyższych.
+
+http://www.ncbi.nlm.nih.gov/pubmed/10864031
+
+Ostatnio zmieniony 21 stycznia 2011 przez Mayday, łącznie zmieniany 1 raz.
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+25 stycznia 2011
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł: Dyspozycja nowych designer drugs we włosach: metylon, MBDB i metkatynon
+
+Abstrakt: Dyspozycja metylonu, metkatynonu i MDBDB we włosach została zbadana na modelu zwierzęcym. Co więcej, wskaźniki włączenia tych środkow zostały porównane z 8 innymi pokrewnymi związkami które zostały już wcześniej przebadane by ocenić ich tendencje włączenia się we włosy i przydatność próbek włosów do potwierdzenia retrospektywnego użycia tych substancji. Gdy wskaźniki stężenia włosów do AUC(krzywa stężeniowo-czasowa) w plazmie zostały przedstawione jako index włączenia srodka we włosy, [włosy]/AUC metylonu było 14 większe niż metkatynonu. Może to wesprzeć wcześniejsze wyniki że grupa metylondioksy na pierścieniu benzenowym prowadzi do znacznie większego wskaźnika włączenia. Jednakże, [Włos]/AUC metylonu było o pięć-siódmych niższe niż w porównaniu z MDMA. Sugeruje to że grupa beta-karbonylowa prowadzi do niższego wskaźnika włączenia. Mimo że metylon ma obie grupy w swojej strukturze, pozytywny efekt grupy metylondioksylowej może być silniejszy od negatywnego efektu grupy beta-karbonylowej. Z drugiej strony, [Włos/AUC] MBDB, który ma strukturę metylenodioksyfenyl-2-butanaminy, było wyższe niż MDMA podczas gdy to metkatynonu, mając strukturę beta-ketonu, było bardzo niskie. W konkluzji, jak z MA i MDMA, tendencja włączenia metylonu I MBDB (oprócz metkatynonu) była relatywnie wysoka i próbka włosów stanowiłaby dobrą próbkę do potwierdzenia retrospektywnego użycia tych środków.
+
+[ external image ]
+
+The disposition into hair of new designer drugs; methylone, MBDB and methcathinone; Ruri Kikura-Hanajiri ∗, Maiko Kawamura, Kazuhiro Saisho, Yukio Kodama, Yukihiro Goda; National Institute of Health Sciences, 1-18-1 Kamiyoga, Setagaya, Tokyo 158-8501, Japan; Received 5 February 2007; accepted 11 May 2007; Available online 29 May 2007
+http://www.drugs-forum.com/forum/local_ ... =2&id=3219
+
+Nie działają mi literki 'ci' i 'si' wiec musicie się domyśleć
+
+Poprawiono polskie znaki - PcP
+
+Ostatnio zmieniony 27 stycznia 2011 przez Mayday, łącznie zmieniany 1 raz.
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+27 stycznia 2011
+
+ Cytuj
+
+ Zgłoś
+
+Tutył: Pryzpadek skrajnego pobudzena i śmierci po użyciu mefedronu w Holandii.
+
+Abstrakt: 36 letni męzczyzna, raniąc sie dotkliwie przez zbicie szyb w napadzie złości, został aresztowany przez policje. Zmarł pomimo prób reanimacji. Kryminalistyczna autopsja wykazała wiele powierzchniowych skaleczeń skóry, siniaki i drobny obrzęk mózgu, lecz nie poznano ostatecznej przyczyny śmierci. Toksykologiczna analiza pokazała wysokie stężenie mefedronu w krwi udowej (5.1mg/L) oraz ślady kokainy, MDMA i oksazepamu. Pozoztała dawka mefedronu w zawartości żołądka została określona na 113mg. Tabletki które znaleziono w domu zmarłego również zawierały mefedron. Przypisujemy śmierć tego męzczyzny śmiertelnemu oralnego podania mefedronu, który prawdopodobnie doprowadził do stanu wzbudzonego delirium. Zostało to spotęgowane przez utrate krwi z licznych ran.
+
+A: przód, B: tył tabletki
+[ external image ][ external image ]
+
+Wyniki analizy toksykologicznej (mg/L - miligramy na litr)
+[ external image ]
+
+K.J.Lusthof,etal.,A case of extreme agitation and death after the use of mephedrone in The Netherlands, ForensicSci.Int.(2011),doi:10.1016/j.forsciint.2010.12.014
+http://www.drugs-forum.com/forum/local_ ... 5&id=10266
+
+Ostatnio zmieniony 27 stycznia 2011 przez Mayday, łącznie zmieniany 1 raz.
+·······························································
+BS
+
+ 2775 /
+ 32 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: BS » 
+07 marca 2011
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł: Stężenia wybranych biopierwiastków w surowicy krwi szczurów narażonych na działanie psylocyny i fenyloetyloaminy
+
+Streszczenie: Naturalne halucynogeny zawarte w grzybach z rodzaju Psilocybe stały się popularne w Europie już w latach 90. XX w. Związki te wzbudziły również zainteresowanie klinicystów z uwagi na możliwości poważnych efektów biologicznych. Mechanizm działania powyższych związków, zarówno 
+psylocyny, jak i fenyloetyloaminy, wynika z ich podobieństwa strukturalnego do naturalnych neutransmiterów: serotoniny i katecholamin. W jednej z wcześniej publikowanych prac 
+wskazano możliwość kardiotoksycznego działania naturalnych halucynogenów poprzez anoksemiczne uszkodzenie mięśnia sercowego. W celu weryfikacji powyższej hipotezy przeprowadzono szeroko zakrojony eksperyment badawczy. Przedstawiono wpływ subchronicznego narażenia szczurów 
+na stężenia w surowicy wybranych biopierwiastków (magnezu, wapnia, sodu, potasu oraz chloru). W oparciu o analizę otrzymanych wyników przyjęto, iż subchroniczne narażenie 
+na naturalne halucynogeny może wpływać na zaburzenia gospodarki magnezem. Nie wydaje się, aby dotyczyło to w sposób istotny innych analizowanych biopierwiastków.
+
+Link: http://www.pum.edu.pl/__data/assets/fil ... T_53-2.pdf
+
+Uwaga! Użytkownik BS nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+Zadi
+
+ 125 /
+ /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Zadi » 
+07 marca 2011
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł :HAMOWANIE UZALEŻNIEŃ PRZEZ ANTAGONISTÓW RECEPTORA NMDA:
+HISTORIA ODKRYCIA I MECHANIZM DZIAŁANIA ibogainy
+
+Streszczenie: Klasyczne podręczniki psychofarmakologii nie wyodrębniają leków hamujących uzależnienia jako osobnej klasy. Być może powodem tego stanu rzeczy jest fakt, że współczesnej psychiatrii nie są znane substancje które miałyby takie przekonywujące działania u ludzi. Nie oznacza to bynajmniej, by działań takich nie opisano lub by odkrywanie substancji o takim potencjale nie było pożądane przez klinicystów. Wręcz przeciwnie, uważa się, że medyczne konsekwencje uzależnień, zwłaszcza lekowych (od opioidów i psychostymulantów) i towarzyszące im zagrożenia (np. zespół nabytej utraty odporności immunologicznej [AIDS]) stanowią ważny czynnik motywujący do takich badań. Ważny jest nie tylko podstawowy, medyczny aspekt leczenia uzależnień. Nakłady finansowe związane z leczeniem uzależnień i pokrywaniem kosztów ich kryminogennych konsekwencji osiągają znaczące sumy. W tym kontekście napawają optymizmem ostatnie wyliczenia sugerujące, że stosowanie nawet dotychczasowych, mało skutecznych metod terapii, pozwala je zmniejszyć siedmiokrotnie. Niewiele wiadomo o tym, na czym polega mechanizm powstawania uzależnień na poziomie molekularnym (biochemicznym). Jego poznanie, jak można sądzić, umożliwi projektowanie leków hamujących uzależnienia. 
+
+http://rabbit.if-pan.krakow.pl/~popikp/ ... ne_pl.html
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+09 sierpnia 2011
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł: Sygnalizacja receptora kannabinoidowego (CB1R) reguluje wątrobwą glukogeneze poprzez indukcje związanym z siateczką endoplazmatyczną czynnika transkrybcyjnego cAMP-responsive Element-binding Protein H (CREBH) w pierwotnych hepatocytach.
+
+Abstrakt: Aktywowana sygnalizacja receptora kannabinoidowego 1 (CB1R) jest zamieszana w rozwój fenotypow związanych z stłuszczeniem wątroby, odpornosc na insuline, oraz zaburzoną supresją wątrobowej(hepatycznej) produkcji glukozy. Powiązana z siateczką endoplazmatyczną wątrobo-specyficzny czynnik transkrybcyjny CREBH wyłania sie jako krytyczny gracz w różnych wątrobowych scieżkach metabolicznych i reguluje wątrobową glukugeneze przy otyłości wywołanej dietą. W tym badaniu wyjaśniliśmy krytyczną role CREBH przy mediacji sygnalizacji CB1R w regulacji homeostazy glukozowej w szczurzych i ludzkich hepatocytach. Poziomy mRNA, białek oraz produkcja glukozy zostały zanalizowane w szczurzych i ludzkich hepatocytach. Przeprowadzone zostały testy ChIP razem z różnymi analizami transkrybcyjnymi używając standardowych technik. Aktywacja CB1R przez 2-Arachidonyloglicerol (2-AG) wywołała specyficzną ekspresje genu CREBH poprez fosforylacje scieżki JNK oraz związanie c-Jun do miejsca wiązań AP-1 w promotorze genu CREBH. Kuracja 2-AG wywołała znaczącą ekspresje wątrobo glukogenicznego genu oraz produkcje glukozy w pierwotnych hepatocytach, zademonstrowaliśmy również że zmutowane miejsce wiązania CREBH znacząco wpłynęło na mediowaną przez 2-AG aktywacje glukogenicznego promotora genu. Endogeniczne "wyłączenie" CREBH doprowadziło do ablacji/odjęcia wywołanej 2-AG glukogenicznej ekspresji genów i produkcji glukozy, natomiast antagonista CB1R AM251 lub insulina ukazały represje indukcji genu CREBH oraz całkowicie zahamowało glukogeneze zarówno w szczurzych jak i ludzkich hepatocytach pierwotnych. Wyniki te demonstrują nowy mechanizm działania aktywnej sygnalizacji CB1R do wywołania wątrobowej glukogenezy poprzez bezpośrednią aktywacje CREBH, wskutek czego przyczyniając sie do lepszego zrozumienia endokannabinoidowego mechanizmu sygnalizacji zamieszanym w regulacji wątrobowej metabolizacji glukozy.
+
+http://www.jbc.org/content/286/32/27971.abstract
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+13 września 2011
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł: Odkrycie indolowych alkaloidów z antagonistyczną aktywnością receptora CB1
+
+Abstrakt: Trzy indolowe alkaloidy voacamine (1), 3,6-oxidovoacangine (2), oraz nowy alkaloid, 5-hydroxy-3,6-oxidovoacangine (3), wyizolowane z Voacanga africana wykazały silną aktywnosc antagonistyczną receptora CB1. Jest to pierwszy przykład antagonistów CB1 uzyskanych z naturalnych alkaloidów.
+
+[ external image ]
+
+http://www.sciencedirect.com/science/ar ... 4X11002204
+·······························································
+opak
+
+ 1876 /
+ 20 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: opak » 
+06 listopada 2011
+
+ Cytuj
+
+ Zgłoś
+
+Nadmierne wydzielanie TNF-α łączy się ze zwiększoną podatnością na alergie i zapadalnością na astmę. Zaburzenia w produkcji TNFα (zwłaszcza nadmierna produkcja) łączone są z nowotworami oraz innymi chorobami, głównie autoimmunologicznymi (np. z chorobą Leśniowskiego-Crohna). Wyindukowane wydzielanie TNFα może doprowadzić do wyniszczenia nowotworowego.
+Okazuje się, że aktywacja receptora serotoniny 5-HT2A powoduje nadzyczajnie potężne zahamowanie wydzielania TNF-alfa i może zablokować proces zapalny nawet kilka godzin po nagłym jego wywołaniu[8]. Dalsze badania nad tym zjawiskiem mogą jednak, paradoksalnie, napotkać przeszkody natury czysto kulturowej, z powodu uprzedzeń znacznej części społeczeństwa wobec agonistów receptora 5-HT2A (środki te mają zwykle silne działanie psychodeliczne, które byłoby niepożądane w terapii).
+
+Psychodeliki lekiem na nowotowory ?:>
+
+Żróło: http://jpet.aspetjournals.org/content/327/2/316
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+22 listopada 2011
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł: Związanie socjalne zmniejsza wynagradzajace wlasciwosci Amfetaminy za posrednictwem mechanizmu receptora dopaminowego D1.
+
+Abstrakt: Chociaz chroniące efekty wiązań socjalnych na użycie/naduzycie substancji psychoaktywnych zostalo dobrze udokumentowane, mało wiemy o zasadniczych mechanizmach neuronalnych. Używając nornika preriowego (Microtus ochrogaster) - socjalnie monogamiczny gryzoń który tworzy po godach długoterminowe związki parowe- demonstrujemy indukowane amfateminą (AMF) kondycjonowanie preferencji miejscowej/conditioned place preference (CPP) w seksualnie naiwnych (SN), lecz nie w związanych w pary/pair-bonded (PB) samcach. Chociaz podawanie AMF wywołało podobny stopien uwolnienia dopaminy w jądrze półleżącym/nucleus accumbens (NAcc) w samcach SN i PB, miało one odmienne efekty wiazania NAcc receptora D1 (D1R). Podawanie AMF w szczególnosci zwiekszyło wiązanie D1R w SN, lecz zmniejszyło wiązanie D1R w samcach PB. Antagonizm NAcc D1R, ale nie receptora D2, blokowało indukowane-AMF CPP w samcach SN a aktywacja NAcc D1R przed kondycjonowaniem AMF umożliwiło indukowane-AMF CPP w samcach PB. Razem, nasze dane demonstrują że doświadczenie związania parowego zmniejsza wynagradzające własciwości AMF za pośrednictwem mechnizmu D1R.
+
+[ external image ]
+
+http://www.jneurosci.org/content/31/22/7960.abstract
+·······························································
+PcP
+
+ 2814 /
+ 13 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: PcP » 
+03 marca 2012
+
+ Cytuj
+
+ Zgłoś
+
+TREŚĆ: Rola neuroprzekaźnictwa noradrenergicznego w modulacji procesów rekonsolidacji pamięci. Nowe możliwości farmakoterapii zespołu stresu pourazowego
+
+STRESZCZENIE:
+Zespół stresu pourazowego (ang. posttraumatic stress disorder, PTSD) rozwija się w następstwie doświadczenia niezwykle silnej traumy psychicznej (DSM-IV-TR). Do cech charakteryzujących PTSD należą emocjonalne odtwarzanie przeżytej traumy (ang. flashbacks), a także natrętne myśli oraz koszmary senne, których treść związana jest z przebytym urazem. Przyjmuje się zatem, iż pamięć traumy leży u podłoża patogenezy zespołu stresu pourazowego. Uczenie się i zapamiętywanie regulowane jest poprzez aktywność wielu substancji modulujących plastyczność synaptyczną w mózgu. Jednym z lepiej poznanych neuromodulatorów jest noradrenalina. Zastosowanie środków farmakologicznych blokujących przekaźnictwo noradrenergiczne w mózgu osłabia pamięć wydarzeń lękowych. Pilotażowe badania z udziałem osób, które doświadczyły silnego urazu emocjonalnego sugerują, iż blokada receptorów beta-adrenergicznych przez propranolol, podany w krótkim okresie po przeżyciu traumy psychicznej, znacząco zmniejsza ryzyko wystąpienia objawów PTSD. Najnowsze badania eksperymentalne z zastosowaniem modeli zwierzęcych dostarczają dowodów na to, że farmakologiczne osłabienie przekaźnictwa noradrenergicznego, nie tylko bezpośrednio po doświadczeniu traumy, lecz także i w trakcie przywołania traumatycznych wspomnień, skutecznie i trwale osłabia pobudzenie emocjonalne towarzyszące wspomnieniom urazu. Odkrycia te otwierają nowe możliwości farmakoterapii zespołu stresu pourazowego.
+
+PDF: http://www.fpn.ipin.edu.pl/aktualne/3-4/t22z34_1.pdf
+
+Uwaga! Użytkownik PCP jest zbanowany na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+PcP
+
+ 2814 /
+ 13 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: PcP » 
+05 marca 2012
+
+ Cytuj
+
+ Zgłoś
+
+Małgorzata Urban, Tomasz Rudecki, Dariusz Wróblewski, Jolanta Rabe-Jabłońska; Zaburzenia psychotyczne związane z przewlekłym przyjmowaniem mefedronu. Opis przypadku; Psychiatria Polska 2011, tom XLV, numer 3, strony 431–437
+Streszczenie
+
+Cel: Celem pracy było przedstawienie przypadku pacjentki, u której wystąpiły zaburzenia psychotyczne, najprawdopodobniej związane z przewlekłym przyjmowaniem mefedronu.
+
+Metoda: Analiza przypadku klinicznego i dokumentacji medycznej.
+
+Wyniki: Opisana pacjentka przyjmowała mefedron regularnie (kilka razy w tygodniu) przez cztery miesiące. Z powodu pojawienia się urojeń ksobnych, prześladowczych, pobudzenia i niepokoju dwukrotnie wymagała hospitalizacji psychiatrycznej. Podczas pierwszego pobytu w szpitalu nie przyznała się do stosowania "dopalaczy". Rozpoznano u niej schizofrenię i zastosowano leczenie olanzapiną. Po wypisie nie zaprzestała stosowania "dopalaczy", ponownie wystąpiły objawy psychotyczne skutkujące kolejną hospitalizacją. Mimo faktu, że nie stosowano leczenia przeciwpsychotycznego po dwóch dobach uzyskano ustąpienie objawów wytwórczych. Obserwowano natomiast senność, apatię, wycofanie społeczne.
+
+Wnioski: Rozpowszechnienie stosowania "dopalaczy", szczególnie przez osoby nieletnie i młodych dorosłych, budzi coraz większy niepokój, przede wszystkim dlatego, że skład chemiczny "dopalaczy" pozostaje jak dotąd niejasny. W większości z nich znajdują się substancje psychoaktywne zarówno pochodzenia naturalnego, jak i syntetyczne. W praktyce klinicznej coraz częściej obserwuje się nie tylko somatyczne ale także psychiatryczne powikłania związane ze stosowaniem dopalaczy. Trudno rozstrzygnąć dlaczego właśnie u opisanej pacjentki wystąpiły zaburzenia psychotyczne w przebiegu powtarzających się intoksykacji, być może wynikają one z jej osobniczych predyspozycji do rozwoju psychozy. W tym przypadku brakuje informacji, czy pacjentka nie miała wcześniej cech osoby z tzw. wysokim ryzykiem rozwoju psychozy.
+
+PDF: http://psychiatriapolska.pl/uploads/ima ... 3_2011.pdf
+
+Uwaga! Użytkownik PCP jest zbanowany na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+10 kwietnia 2012
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł: Receptory 5HT2C tworza kompleks z podjednostkami NMDA GluN2A i aktywują fosforylacje białek Src przez co regulują motoneuronową depolaryzacje.
+
+Wynik badania: 5HT2C jest co-immunowytrącany z GluN2A i zwiększa motoneuronową depolaryzacje NMDA przez fosforylacje SrcTyr-416
+
+http://www.jbc.org/content/287/14/11049.abstract
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+23 maja 2012
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł: Risky Music-Listening Behaviors and Associated Health-Risk Behaviors (niewiem jak to przetlumaczyc, wybaczcie)
+
+Wynik: Mlodziez sluchajaca glosnej muzyki (powyzej 89db) np. na sluchawkach (odtwarzacz mp3) uzywala marihuany czesciej(prawie 2 razy czesciej) w ostatnich 4 tyg., mlodziez ktora sluchala glosnej muzyki w klubach, uzywala marihuany rzadziej(o połowe), czesciej piła(6 razy) i rzadziej uzywala przezerwatyw(2 razy rzadziej) w ostatnich 4 tyg. Badanie było prowadzane na 944 uczniach/studentach.
+
+http://pediatrics.aappublications.org/c ... 8.full.pdf
+
+Ostatnio zmieniony 23 maja 2012 przez Mayday, łącznie zmieniany 2 razy.
+·······························································
+alfachem
+
+ 441 /
+ 3 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: alfachem » 
+26 czerwca 2012
+
+ Cytuj
+
+ Zgłoś
+
+Wniosek jest taki - w klubach nie pali się marihuany, za to pije alkohol i uprawia seks w dziwnych miejscach. Właściwie co to badanie miało udowodnić? Korelację między sposobem słuchania głośniej muzyki a stosowaniem używek wśród młodzieży? A skąd wiadomo, że ta sama młodzież, która paliła marihuanę słuchając mp3, nie paliła jej idąc do klubu? Nie wiem czy to miejsce na komentarze, ale dla mnie to jakaś bzdura ;)
+
+Ćpanie jest wyrokiem na całe życie.Ćpamy w nadziei, że doświadczymy szczęścia na progu piekła. Na końcu nie ma już nawet nadziei.
+
+NIE MIKSUJCIE Z NICZYM ALFY
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+27 czerwca 2012
+
+ Cytuj
+
+ Zgłoś
+
+Masz tam link do pelnej publikacji jesli chcesz pozanc wiecej szczegolow. Badanie zostalo przeprowadzone przez ankiete: kilka pytan: abcd i zaznaczali pasujace do nich. Badanie ma na celu chronic w przyszlosci mlodziez, przed takimi niebezpiecznymi zachowaniami :-p Gdy to pierwszy raz przeczytalem smialem sie z tego i myslalem ze to bzdura, ale gdyby tak jednak to rozkminic to jest w tym jakis psychologiczny sens i dlatego to tu wstawilem, jako taka psychologiczna ciekawostke ;-) Widze w tym odniesienie do siebie np. wole zapalic i posluchac mp3jki niz pojsc najebac i zachowywac jak dziki zwierz na imprezie
+·······························································
+alfachem
+
+ 441 /
+ 3 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: alfachem » 
+28 czerwca 2012
+
+ Cytuj
+
+ Zgłoś
+
+Mayday pisze:Masz tam link do pelnej publikacji jesli chcesz pozanc wiecej szczegolow. Badanie zostalo przeprowadzone przez ankiete: kilka pytan: abcd i zaznaczali pasujace do nich
+Heh, nie ma to jak badania kwestionariuszowe. Kiedyś przed pewnym badaniem (nie pomnę niestety kto i co) zrobiono szybkie badanie pilotażowe. Ogólnie w badaniu chodziło zdaje się ile pielęgniarek wykona polecenie lekarza, które ewidentnie zagraża życiu pacjenta. Blisko 100% pielęgniarek odpowiedziało, że absolutnie nigdy w życiu. Po czym zrobiono oczywiście fikcyjne (nie zabijano pacjentów ;) ) badanie praktyczne i blisko 100% dokładnie bez żadnych dyskusji poleciało wstrzyknąć pacjentowi żrący kwas dożylnie :D
+
+Ćpanie jest wyrokiem na całe życie.Ćpamy w nadziei, że doświadczymy szczęścia na progu piekła. Na końcu nie ma już nawet nadziei.
+
+NIE MIKSUJCIE Z NICZYM ALFY
+·······························································
+PcP
+
+ 2814 /
+ 13 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: PcP » 
+07 lipca 2012
+
+ Cytuj
+
+ Zgłoś
+
+Żukiewicz-Sobczak, Wioletta, i Ewelina Krasowska, ‘Analysis of psychoactive and intoxicating substances in legal highs’, Ann Agric Environ Med, 19 (2012), 309–314 <http://aaem.pl/fulltxt.php?ICID=1002012> [pobrano 7 lipiec 2012]
+
+Abstrakt: "Legal highs" znane również jako "smarts", "legal drugs" lub "boosters" zawierają w swoim składzie substancje psychoaktywne, których produkcja, sprzedaż i posiadanie nie jest zabroniona w przepisach. Są one oferowane do sprzedaży pod przykrywką przedmiotów kolekcjonerskich, soli do kąpieli, kadzidełek lub nawozów do roślin. Marketing był powodem tak wysokiej sprzedaży tych "highs" w Polsce. Zjawisko stało się niepokojące gdy informacja o pierwszych tragicznych przypadkach konsekwencji zdrowotnych stała się dostępna. Podnoszenie świadomości młodzieży na temat poziomu grożącego niebezpieczeństwa i konsekwencji poważnych związanego z wykorzystaniem dopalaczy może być bardzo skutecznym sposobem na rozwijanie odpowiednich postaw młodych ludzi, a w świetle własnego zdrowia mogą pomóc im w podjęciu właściwych decyzji życiowych. "Legal highs" to substancje pochodzenia naturalnego lub syntetycznego o właściwościach psychostymulacyjnych. Związki te mogą różnić się w strukturze chemicznej, potencjale, okresie półtrwania, metabolizmie i nasileniu skutku ubocznych. Ich aktywność farmakologiczna jest związane ze zmianami w systemie neurotransmiterów. (...) Niepokojący jest fakt niedoceniania niekorzystnego wpływu tych substancji na zdrowie człowieka. Wszelkie działania zmierzające do poprawy tej sytuacji są niezwykle ważne, dlatego w jednym z kluczowych projektów realizowanych w Instytucie Medycyny Wsi w Lublinie, we współpracy z innymi instytutami naukowymi, dotyczyła analizy wybranej serii "dopalaczy". Badania miał głównie służyć jako źródło informacji dla nauki i medycyny, a także dla popularyzacji wiedzy na temat dopalaczy.
+
+W kontekście tego artykułu warto spojrzeć do raportu GIS dostępnego na http://www.mirrorcreator.com/files/8H6W ... .pdf_links z czego dowiemy się np.kto płacił za te badania ;) i szersze spojrzenie na sytuacje i skład, bo ten Instytut przebadał tylko ~1/4 badanych na zlecenie GIS próbek tzn.~16,46% istniejących próbek. Ogólnie jednostki współpracującego z GIS nie przebadały blisko 40% próbek.
+Poza tym mój współpracownik pisał wniosek do GIS w sprawie rejestru przypadków zatruć dopalaczami.
+Treść wniosku:
+Spoiler:Do GIS
+
+Bartek Makłowicz
+ul. Jasna 15
+00-003 Warszawa
+
+Wnioskuje udzielenia informacji w trybie ustawy o ustawy o dostępie do informacji publicznej z dnia 6 września 2001 r. (Dz.U. z 2001 nr 112 poz.1198 z późniejszymi zmianami) zwanej dalej ustawą o dostępie do informacji publicznej o udostępnienie informacji publicznej, nie udostępnionej w Biuletynie Informacji Publicznej lub centralnym repozytorium, w zakresie:
+Wyciąg wszelkich danych przechowywanych w zakresie centralnego rejestru przypadków zatruć środkami zastępczymi prowadzonymi na podstawie paragraf 19a pkt 6 "regulaminu GIS"? Ile danych zawiera rejestr na dzień dzisiejszy?
+Zgodnie z art.14 ustawy o dostępie do informacji publicznej proszę o przesłanie dokumentów i korespondencje wyłącznie przy użyciu poczty elektronicznej w formie elektronicznej pod adres alotropia@informacjepubliczne.org.pl. Inne próby kontakty mogą spowodować wątpliwości co to tego czy organ nie narusza przepisów ustawy o dostępie do informacji publicznej (czyli pozostaje w bezczynności) i spowodować skierowanie skargi do Sądu Administracyjnego na działania urzędu w celu oceny czy doszło do naruszenia przepisów i wyciągnięcia konsekwencji.
+W przypadku wątpliwości co do obecności informacji chronionych prawem informuje, że usuwanie informacji chronionych prawem, a w szczególności danych osobowych nie stanowi czynności, której można przypisać znaczny stopień zaangażowania intelektualnego, przez co czynność ta nie wypełnia znamion przetwarzania informacji (II SA/Łd 974/08; I OSK 1727/09; M. Jabłoński, K. Wygoda. Ustawa o dostępie do informacji publicznej. Komentarz. Wrocław 2002, s. 32). Uwzględniając powyższe uważa się za nieprawidłowy pogląd, że usuwanie danych chronionych prawem czyni informację prostą informacją przetworzoną do której udostępnienia konieczne jest wykazanie interesu społecznego (art. 3.1.1 ustawy o dostępie do informacji publicznej). Zgodnie z art.23 ustawy o dostępie do informacji publicznej kto, wbrew ciążącemu na nim obowiązkowi, nie udostępnia informacji publicznej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. Udostępnienie informacji publicznej na wniosek pod groźbą skargi na bezczynność organu nie powinno nastąpić później niż w terminie 14 dni od złożenia wniosku, chyba że:
+nie może być udostępniona w tym terminie, ale wtedy powinienem zostać powiadomiony o powodach opóźnienia i terminie udostępnienia informacji (jednak nie dłuższym niż 2 miesiące od złożenia wniosku)
+środki techniczne nie pozwalają na udostępnienie informacji w sposób i w formie określonych we niniejszym wniosku, ale wtedy powinienem zostać powiadomiony o braku możliwości udostępnienia jej zgodnie z wnioskiem i otrzymać informację, w jakiej formie może być ona udostępniona.
+Zgodnie z art.13 ustawy o dostępie do informacji publicznej informacja powinna zostać udostępniania w terminie nie dłuższym niż 14 dni roboczych od dnia złożenia wniosku z wyjątkiem sytuacji poinformowania w terminie 14 dni o powodach opóźnieniach i terminie, w jakim informacja zostanie udostępniona, a termin ten w tym przypadku może wynieść do 2 miesięcy od dnia złożenia niniejszego wniosku. Zgodnie z art. 15 ustawy o dostępie do informacji publicznej w przypadku koniecznością przekształcenia informacji w formę wskazaną we wniosku w terminie 14 dni od dnia złożenia wniosku organ ma obowiązek poinformować o kosztach, a po kolejnych 14 dniach udostępnić, o ile nie dojdzie do zmiany lub wycofania wniosku.
+
+Bartek Makłowicz
+
+Do:
+Ministerstwo ZdrowiaDo GIS
+
+Bartek Makłowicz
+ul. Jasna 15
+00-003 Warszawa
+
+Wnioskuje udzielenia informacji w trybie ustawy o ustawy o dostępie do informacji publicznej z dnia 6 września 2001 r. (Dz.U. z 2001 nr 112 poz.1198 z późniejszymi zmianami) zwanej dalej ustawą o dostępie do informacji publicznej o udostępnienie informacji publicznej, nie udostępnionej w Biuletynie Informacji Publicznej lub centralnym repozytorium, w zakresie:
+Wyciąg wszelkich danych przechowywanych w zakresie centralnego rejestru przypadków zatruć środkami zastępczymi prowadzonymi na podstawie paragraf 19a pkt 6 "regulaminu GIS"? Ile danych zawiera rejestr na dzień dzisiejszy?
+Zgodnie z art.14 ustawy o dostępie do informacji publicznej proszę o przesłanie dokumentów i korespondencje wyłącznie przy użyciu poczty elektronicznej w formie elektronicznej pod adres alotropia@informacjepubliczne.org.pl. Inne próby kontakty mogą spowodować wątpliwości co to tego czy organ nie narusza przepisów ustawy o dostępie do informacji publicznej (czyli pozostaje w bezczynności) i spowodować skierowanie skargi do Sądu Administracyjnego na działania urzędu w celu oceny czy doszło do naruszenia przepisów i wyciągnięcia konsekwencji.
+W przypadku wątpliwości co do obecności informacji chronionych prawem informuje, że usuwanie informacji chronionych prawem, a w szczególności danych osobowych nie stanowi czynności, której można przypisać znaczny stopień zaangażowania intelektualnego, przez co czynność ta nie wypełnia znamion przetwarzania informacji (II SA/Łd 974/08; I OSK 1727/09; M. Jabłoński, K. Wygoda. Ustawa o dostępie do informacji publicznej. Komentarz. Wrocław 2002, s. 32). Uwzględniając powyższe uważa się za nieprawidłowy pogląd, że usuwanie danych chronionych prawem czyni informację prostą informacją przetworzoną do której udostępnienia konieczne jest wykazanie interesu społecznego (art. 3.1.1 ustawy o dostępie do informacji publicznej). Zgodnie z art.23 ustawy o dostępie do informacji publicznej kto, wbrew ciążącemu na nim obowiązkowi, nie udostępnia informacji publicznej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. Udostępnienie informacji publicznej na wniosek pod groźbą skargi na bezczynność organu nie powinno nastąpić później niż w terminie 14 dni od złożenia wniosku, chyba że:
+nie może być udostępniona w tym terminie, ale wtedy powinienem zostać powiadomiony o powodach opóźnienia i terminie udostępnienia informacji (jednak nie dłuższym niż 2 miesiące od złożenia wniosku)
+środki techniczne nie pozwalają na udostępnienie informacji w sposób i w formie określonych we niniejszym wniosku, ale wtedy powinienem zostać powiadomiony o braku możliwości udostępnienia jej zgodnie z wnioskiem i otrzymać informację, w jakiej formie może być ona udostępniona.
+Zgodnie z art.13 ustawy o dostępie do informacji publicznej informacja powinna zostać udostępniania w terminie nie dłuższym niż 14 dni roboczych od dnia złożenia wniosku z wyjątkiem sytuacji poinformowania w terminie 14 dni o powodach opóźnieniach i terminie, w jakim informacja zostanie udostępniona, a termin ten w tym przypadku może wynieść do 2 miesięcy od dnia złożenia niniejszego wniosku. Zgodnie z art. 15 ustawy o dostępie do informacji publicznej w przypadku koniecznością przekształcenia informacji w formę wskazaną we wniosku w terminie 14 dni od dnia złożenia wniosku organ ma obowiązek poinformować o kosztach, a po kolejnych 14 dniach udostępnić, o ile nie dojdzie do zmiany lub wycofania wniosku.
+
+Bartek Makłowicz
+
+Do:
+Ministerstwo Zdrowia
+Odpowiedź: https://hotfile.com/dl/162544132/4c2cc8 ... S.pdf.html
+
+Uwaga! Użytkownik PCP jest zbanowany na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+Chong
+
+ 83 /
+ 3 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Chong » 
+19 listopada 2012
+
+ Cytuj
+
+ Zgłoś
+
+Parę rzeczy od Cichego Boba:
+
+1) Zdobyte przez moją osobę wyniki badań dopalaczy (składy):
+Pismo (za duże by wrzucić):
+http://img856.imageshack.us/img856/5489/pismor.jpg
+
+Otrzymana informacja do raportu, zawierająca składy masy dopalaczy:
+http://speedy.sh/wzCBf/Informacja-do-ra ... 010-r..pdf
+
+Wysłałem zapytanie o podjęte kroki prawne związane z zawartością nielegalnych substancji, ale wątpię bym otrzymał odpowiedź.
+
+2) Praca dot. 4-MMC, bk-MDMA oraz MDPV, polskich uczonych - przedewszystkim wrzucam, ze względu na metabolizm. Na dole dokumentu znajduje się praca po polsku:
+http://speedy.sh/WxSym/4-MMC-bk-MDMA-MD ... bolizm.pdf
+·······························································
+kot bajun
+
+ 15 /
+ /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: kot bajun » 
+13 grudnia 2012
+
+ Cytuj
+
+ Zgłoś
+
+O relacji marihuana-kortyzol. George R. King, Thomas Ernst, Weiran Deng, Andrew Stenger, Rachael M. K. Gonzales, Helenna Nakama, and Linda Chang. 
+
+30 użytkowników marihuany (16 mężczyzn i 14 kobiet w wieku 18-45 lat) i 30 osób niespożywających używek (16 mężczyzn i 14 kobiet w wieku 19-44 lat) przebadano neuropsychologicznie w celu oszacowania charakteru i stopnia zaawansowania zmian motorycznych; pobrano też ślinę w celu zbadania poziomu zawartego w niej kortyzolu. Wydajność mężczyzn z pierwszej grupy w czasie psychomotorycznych testów prędkości była obniżona, a wszyscy użytkownicy konopii mieli wyższe stężenie kortyzolu w ślinie. Wnioskuje się, że zażywanie marihuany może prowadzić do zmniejszonej wydajności wzrokowo-ruchowej. 
+
+od kortyzolu robią się rozstępy. pamiętajcie o tym.
+·······························································
+matka boska bajkowa
+
+ 232 /
+ 6 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: matka boska bajkowa » 
+31 maja 2013
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł: Skuteczność jednorazowego wlewu ketaminy w depresji w przebiegu choroby afektywnej dwubiegunowej przy braku poprawy po lekach przeciwdepresyjnych
+
+Źródło: http://fpn.ipin.edu.pl/aktualne/2012/11 ... 2_IPiN.pdf
+
+STRESZCZENIE
+Założenia.
+Celem pracy było badanie przeciwdepresyjnego działania pojedynczego wlewu ketaminy u pacjentów z depresją w przebiegu choroby afektywnej dwubiegunowej (CHAD) przyjmujących leki normotymiczne, u których nie uzyskano poprawy po stosowaniu leków przeciwdepresyjnych.
+Metodyka.
+Badaniem objęto 25 pacjentów (21 kobiet, 4 mężczyzn) w wieku od 27 do 67 lat z depresją w przebiegu
+CHAD. Wszyscy otrzymywali co najmniej jeden normotymiczny pierwszej lub/i drugiej generacji, a podawanie leków
+przeciwdepresyjnych nie powodowało poprawy. Po odstawieniu leków przeciwdepresyjnych na co najmniej 7 dni
+wykonywano dożylny wlew ketaminy (0,5 mg/kg masy ciała). Ocenę psychometryczną przeprowadzano przy użyciu 17-punktowej Skali Depresji Hamiltona (HDRS) bezpośrednio przed oraz po 6, 12 i 24 godzinach oraz 3, 7, 10 i 14 dniach po podaniu ketaminy.
+Wyniki.
+Średnie nasilenie depresji przed wlewem ketaminy wynosiło w skali HDRS21±5 punktów, po 6 godzinach po infuzji zmniejszyło się do19±8, w drugim dniu do16±9, w 7 dniu do 12±7, a w 14 dniu do11±7punktów. Poprawa stanu psychicznego (zmniejszenie nasilenia punktacji HDRS o≥50%) u 1 pacjenta wystąpiła po 6 godzinach, u ¼ chorych
+po 24 godzinach i u 52% chorych po 7 i po 14 dniach. Czterech pacjentów uzyskało remisję(≤7 punktów HDRS) w drugim
+dniu po infuzji, ośmiu po 7 dniach i dwunastu po 14 dniach. Wlew ketaminy był dobrze tolerowany.
+Wnioski.
+Wyniki badania potwierdzają
+szybki przeciwdepresyjny efekt infuzji ketaminy utrzymujący się przez
+co najmniej 2 tygodnie, u znacznej części pacjentów z depresją w przebiegu CHAD otrzymujących leki normotymiczne,
+opornych na uprzednie stosowanie leków przeciwdepresyjnych.
+
+"Głupotą jest bać się tego, czego nie można uniknąć"
+P. Syrus
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+04 czerwca 2013
+
+ Cytuj
+
+ Zgłoś
+
+http://www.jbc.org/content/288/22/15712.abstract
+
+Skrot: Dlugotrwala aktywacja receptora CB2 (uzywajac agonistow), pozytywnie reguluje (up-regulate) / zwieksza ekspresje i zwieksza aktywnosc receptora 5-HT2A, przez zwiekszona ekspresje GRK-5, fosforylacje receptorow CB2 i interakcje z β-Arrestin 2/ERK. 
+
+Odemnie: Moze to tlumaczyc negatywne psychiczne skutki dlugotrwalego uzywania kannabinoidow takich jak: paranoje, leki, objawy schizofreni itd...
+
+Ostatnio zmieniony 04 czerwca 2013 przez Mayday, łącznie zmieniany 1 raz.
+·······························································
+matematyka
+
+ 5 /
+ 10 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: matematyka » 
+06 czerwca 2013
+
+ Cytuj
+
+ Zgłoś
+
+Jeśli ktoś posiada konto na facebooku, polecam polubienie profilu: https://www.facebook.com/mapsmdma
+
+Oragnizacja Multidisciplinary Association for Psychedelic Studies zapewni Wam codzienne, świeże wieści z badań prosto w Waszym newsfeedzie.
+
+Acha, profil po angielsku - ale to dobrze, nauka w końcu jest światowa a nie polska.
+
+Na świecie jest za dużo głupich ludzi.
+·······························································
+agesamswa
+
+ 8 /
+ /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: agesamswa » 
+21 czerwca 2013
+
+ Cytuj
+
+ Zgłoś
+
+Polecam świetny artykuł o dopaminie ,receptorach dopaminowych, czytając to (a mam duże doświadczenie ,głownie z stymulantami) byłem nie raz zaskoczony ile dowiedziałem się o mojej zrytej bańce.Szczególnie ciekawy jest wątek o sensytyzacji układu dopaminowego.
+http://www.ipin.edu.pl/ain/aktualne/2/t19n2_3.pdf - Wojciech Kostowski: PODSTAWOWE MECHANIZMY I TEORIE UZALEŻNIEŃ
+
+http://www.ipin.edu.pl/ain/archiwum/2001/1/t14n1_2.pdf - Jerzy Vetulani: UZALEŻNIENIA LEKOWE: MECHANIZMY 
+NEUROBIOLOGICZNE I PODSTAWY FARMAKOTERAPII.
+
+Podpisujemy linki + scalono - berig
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Mayday » 
+22 lipca 2014
+
+ Cytuj
+
+ Zgłoś
+
+Zaburzenie synaptycznej integralnosci przez Δ9-THC spowodowane m.in jest sygnalizacja COX-2
+
+http://www.cell.com/retrieve/pii/S0092867413013603
+Δ9-THC-Caused Synaptic and Memory Impairments Are Mediated through COX-2 Signaling
+
+[ external image ]
+
+-Δ9-THC indukuje ekspresje i aktywnosc COX-2 przez CB1R-sprezone Gβγ podjednostki
+-Zaburzenie synaptycznej integralnosci przez Δ9-THC jest przewdzialane przez inhibicje COX-2
+-Inhibicja COX-2 eliminuje spowodowane przez Δ9-THC synaptyczne i poznawcze braki
+-Δ9-THC redukuje Aβ i neurodegeneracje gdy obecna jest inhibicja COX-2
+
+Po chlopsku: w teorii wedlug tego badania, zazycie NSAID typu Aspirynka moze przeciwdzialac, przynajmniej czesciowo zanikowi pamieci / kognicji po Δ9-THC / Marihuanie
+·······························································
+Dexxter
+
+ 181 /
+ 3 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Dexxter » 
+07 października 2014
+
+ Cytuj
+
+ Zgłoś
+
+Sex-dependent long-term effects of adolescent exposure to THC and/or MDMA on neuroinflammation and serotoninergic and cannabinoid systems in rats
+
+http://onlinelibrary.wiley.com/doi/10.1 ... 9/abstract
+
+Czyli jak bierzecie X, to nie zapomnijcie nigdy dodać THC! :old:
+·······························································
+Dexxter
+
+ 181 /
+ 3 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: Dexxter » 
+12 listopada 2014
+
+ Cytuj
+
+ Zgłoś
+
+Impact of cannabidiol on the acute memory and psychotomimetic effects of smoked cannabis: naturalistic study: naturalistic study
+
+http://www.ncbi.nlm.nih.gov/pubmed/20884951
+
+Całkiem wartościowe info dla ludzi mających problemy z pamięcią po MJ.
+·······························································
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Najnowsze badanie na temat gastrofazy po kannabinoidach
+Nieprzeczytany post
+autor: Mayday » 
+21 lutego 2015
+
+ Cytuj
+
+ Zgłoś
+
+Tytuł publikacji: Neurony POMC z podwzgórza indukują żywienie/"gastro" spowodowane kannabinoidami
+
+W wielkim skrocie:  neurony POMC byly znane z tego ze uwalniają neuroprzekazniki ktore hamują uczucie głodu, ostatnio odkryto tez że uwalniają neuroprzekażniki które powodują głód i to wlasnie kannabinoidy powoduja tez ze te neuroprzekazniki głodu są wydzielane z tych neuronów, co konczy sie ogromna ochotą na zjedzenie czegoś
+
+http://www.nature.com/articles/nature14260.epdf - oryginalna publikacja
+http://www.nature.com/news/marijuana-fl ... in-1.16957 - jej streszczenie
+
+http://gizmodo.com/a-mostly-scientific- ... 1686584971 - zestawienie informacji na temat "gastrofazy"
+·······························································
+totem500
+
+ 111 /
+ 6 /
+ 0 
+
+Re: Linki do stronek
+Nieprzeczytany post
+autor: totem500 » 
+29 kwietnia 2015
+
+ Cytuj
+
+ Zgłoś
+
+ANALIZA CHEMICZNA W KRYMINALISTYCE
+FIZYKOCHEMICZNE METODY BADAŃ W KRYMINALISTYCE
+http://chem.arch.ug.edu.pl/zas/dydaktyk ... inoidy.pdf
+
+Scalono - Berig
+
+Rola systemu endokanabinoidów w patogenezie i terapii otyłości
+http://www.endokrynologiapediatryczna.pl/?v=2&ida=1487
+
+Chemiczna analiza
+środków leczniczych
+(Leki proste) 
+https://inf.ug.edu.pl/kierunkizamawiane ... _lekow.pdf
+
+Uwaga! Użytkownik totem500 nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+totem500
+
+ 111 /
+ 6 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: totem500 » 
+01 maja 2015
+
+ Cytuj
+
+ Zgłoś
+
+http://chemia.zamkor.pl/pdf.php?file=im ... niczne.pdf
+
+Uwaga! Użytkownik totem500 nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+totem500
+
+ 111 /
+ 6 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: totem500 » 
+01 maja 2015
+
+ Cytuj
+
+ Zgłoś
+
+[plik PDF] Syntetyczne leki chemioterapeutyczne
+
+odnośnik powinien być opisany
+
+Ostatnio zmieniony 02 maja 2015 przez surveilled, łącznie zmieniany 1 raz.
+Powód: opisano odnośnik	
+
+Uwaga! Użytkownik totem500 nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+totem500
+
+ 111 /
+ 6 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: totem500 » 
+01 maja 2015
+
+ Cytuj
+
+ Zgłoś
+
+chemia organicznych związków fluoru 
+http://chemia.amu.edu.pl/__data/assets/ ... czenie.pdf
+
+nowoczesne metody poszukiwania i otrzymywania srodkow leczniczych
+http://tsl.wum.edu.pl/sites/tsl.wum.edu ... l_w1_2.pdf
+
+Uwaga! Użytkownik totem500 nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+totem500
+
+ 111 /
+ 6 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: totem500 » 
+01 maja 2015
+
+ Cytuj
+
+ Zgłoś
+
+Ocena wpływu środków zastępczych na zdrowie ludzi
+na podstawie struktury chemicznej, właściwości
+fizykochemicznych i badań toksykologicznych przy
+użyciu dostępnych wyników badań, danych zawartych
+w literaturze specjalistycznej oraz specjalistycznych
+programach komputerowych 
+http://gis.gov.pl/ckfinder/userfiles/fi ... drowie.pdf
+
+Uwaga! Użytkownik totem500 nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+Astros
+
+ 195 /
+ 10 /
+ 0 
+
+Badania nt nowych RCna rynku (klonazolam, flubromazolam, deschloroetizolam, meklonazepam)
+Nieprzeczytany post
+autor: Astros » 
+07 maja 2015
+
+ Cytuj
+
+ Zgłoś
+
+http://www.researchgate.net/publication ... etabolites
+
+Bardzo ciekawe i dość głęboko opisana farmakodynamika, metabolizm itp. Znajomość psychofarmakologii na poziomie średnim/zaawansowanym wymagana.
+·······························································
+boloyoung69
+
+ 9 /
+ /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: boloyoung69 » 
+19 października 2015
+
+ Cytuj
+
+ Zgłoś
+
+http://www.cza.pl/pdf/cza2009-10-s54-65.pdf
+
+od chloropromazyny do alipriprazolu
+budowa chemiczna i mechanizm dzialania
+wybranych lekow psychotycznych
+
+http://chemia.ug.edu.pl/sites/default/f ... _lekow.pdf
+
+SKRYPT Z CHEMII LEKÓW
+
+Polimery gwiaździste jako modelowe nanotransportery
+leków i kwasów nukleinowych: synteza, struktura i
+dynamika kationowych polimerów gwiaździstych na
+bazie poli(glikolu etylenowego)
+
+https://repozytorium.amu.edu.pl/jspui/b ... torska.pdf
+
+Ostatnio zmieniony 21 października 2015 przez surveilled, łącznie zmieniany 1 raz.
+Powód: scalono	
+
+Uwaga! Użytkownik boloyoung69 nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+eraseesdlazaxc
+
+ 1 /
+ /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: eraseesdlazaxc » 
+29 października 2015
+
+ Cytuj
+
+ Zgłoś
+
+http://www.cipramil.info/upload/pl/file ... jomery.pdf
+
+Ma³gorzata Zienowicz1, Aleksandra Wis³owska1,
+Danuta Turzyñska2, Adam P³anik1,2
+
+http://www.cipramil.info/upload/pl/file ... jomery.pdf
+
+erasee s
+·······························································
+ma24ti
+
+ 48 /
+ 4 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: ma24ti » 
+02 listopada 2015
+
+ Cytuj
+
+ Zgłoś
+
+Jak by ktos byl zainteresowany to mam nieograniczony dostep do sciencedirect i moge posciagac i udostepnic rozne publikacje. Tylko dawajcie propozycje co byscie chcieli (konkretny artykul lub publikacja na SD) i sprawa zalatwiona ;)
+
+Uwaga! Użytkownik ma24ti nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+eraseedlaxxxacz
+
+ 9 /
+ 2 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: eraseedlaxxxacz » 
+13 listopada 2015
+
+ Cytuj
+
+ Zgłoś
+
+Materiały dodatkowe – związki azotowe
+http://farmacja.cm-uj.krakow.pl/~mkz/azotowe.pdf
+
+wyklad
+http://www.pg.gda.pl/chem/Katedry/Organ ... wyklad.pdf
+
+Konspekt wykładu „Chemia Organiczna” dla studentów Wydziału Inżynierii Chemicznej i Procesowej
+http://zcho.ch.pw.edu.pl/dyd_inz1o.pdf
+
+http://oia.krakow.pl/storage/farmacja_2014_02.pdf duzo efydrynie
+to jest prawdziwa pompa bo jak poczytacie dluzej
+natraficie na taki tekst
+Przytoczone poniżej informacje pochodzą z forów internetowych i nie
+mogą być w żadnym wypadku źródłem wiedzy na temat działania czy zastosowania
+leków z efedryną. Przytaczamy je wyłącznie po to, by uświadomić
+czytelnikom, w jakim innym niż leczniczy celu może być kupowany lek i jakie
+mogą być wobec niego oczekiwania. W cytatach zachowano oryginalną
+pisownię ide o zaklad ze h ciagneli
+oto przyklad efektu po efedrynie z narkomanskiego forum
+-Proste rzeczy sprawiają przyjemność, zwykły spacer czy szlug jest
+spełnieniem wszystkich marzeń. Świat jest piękny, a ty możesz zwalczyć
+zło znajdujące się na nim Chcesz wszystkim pomóc, gdy kumpel
+zasłabnie po bezalkoholowym ty pierwszy rzucisz się mu na ratunek.
+Tussipect jest substytutem amfetaminy i... też spiduje i daje moc. Najchętniej
+cały czas byś chodził. W walce jesteś niemalże niezniszczalny
+[...] Ogółem chce się działać, chcesz sobie pobiegać, wejść na coś potem
+z tego zejść i tak w kółko przez całą noc [...] Po tussi mało, kto pogardzi
+jakimś dobrym trance’em szczególnie w domowym zaciszu, gdy nie
+będzie mógł zasnąć muzyka jest obowiązkowa. Każdy usłyszany dźwięk
+jest skierowany specjalnie dla Ciebie, wywołuje dreszcze i mrowienie na
+całym ciele [...] Świat po efedrynie wydaje się być taki ostry i prawdziwy,
+stojąc w tłumie ludzi masz wrażenie ze z ich grona to ty wszystko
+najlepiej ogarniasz.
+
+kurwa efekt jestem bogiem po efedynie wyobraz to sobie uswiadom to sobie...
+
+scalono
+
+Ocena rozpowszechnienia, powodów i form użycia tak zwanych
+„dopalaczy” przez uczestników ankiety internetowej
+
+http://www.psychiatriapolska.pl/uploads ... 6_2013.pdf
+tabele wyniki itp
+
+Uwaga! Użytkownik eraseedlaxxxacz nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+SIRPAWPIFIN
+
+ 404 /
+ 39 /
+ 0 
+
+Re: Badania i publikacje farmakologiczne
+Nieprzeczytany post
+autor: SIRPAWPIFIN » 
+23 września 2017
+
+ Cytuj
+
+ Zgłoś
+
+Niebezpieczeństwa polipragmazji w neurologii
+Hazards of polypharmacy in neurology
+
+http://www.czytelniamedyczna.pl/3416,ni ... logii.html
+·······························································
+DeusExMachina
+
+ 107 /
+ 7 /
+ 0 
+
+Re: Kodeina - Thiocodin
+Nieprzeczytany post
+autor: DeusExMachina » 
+24 kwietnia 2018
+
+ Cytuj
+
+ Zgłoś
+
+Prezent dla Was misiaczki dokładne badania o inhibicji Cyp2D6 przez flue, serte, paro i wenflo:
+https://www.ncbi.nlm.nih.gov/pubmed/10631623
+
+ja na 75 mg sercie grzeje aż miło ;)

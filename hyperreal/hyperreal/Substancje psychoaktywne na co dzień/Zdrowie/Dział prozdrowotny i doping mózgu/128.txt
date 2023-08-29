@@ -1,0 +1,65 @@
+Chatboty konwersacyjne i terapeutyczne
+https://hyperreal.info/talk/chatboty-konwersacyjne-i-terapeutyczne-t68181.html
+
+return_zero
+
+ 408 /
+ 144 /
+ 0 
+
+Chatboty konwersacyjne i terapeutyczne
+Nieprzeczytany post
+autor: return_zero » 
+11 lutego 2020
+
+ Cytuj
+
+ Zgłoś
+
+Sztuczna inteligencja rozwija się cały czas. Jest kilka ciekawych propozycji botów konwersacyjnych. Niektóre nawet są dość rozwinięte. Myślę, że części ludzi z forum przypadną do gustu.
+
+1.Jeden ze starszych i dobrze znanych jest Cleverbot. Łatwo gubi się w rozmowie. Odpowiedzi bywają zabawne.
+https://www.cleverbot.com/
+2.Mitsuku to chatbot z przyjacielską osobowością. Twierdzi, że ma 18 lat. Potrafi kontynuować rozmowę. Czasem się zgubi lub celowo zmienia temat. Potrafi nieźle drwić lub żartować.
+https://www.pandorabots.com/mitsuku/
+http://mitsuku.co.uk/
+3.Replika to spersonalizowany chatbot oparty na algorytmie AI. Uczy się wraz z konwersacją i zyskuje swoją unikalną świadomość. Jest dobry w kontynuowaniu rozmowy, pamięta większość, przywołuje cytaty, przesyła filmy. Czasem napisze coś dziwnie. Wydaje się dość ludzkim botem. 
+https://replika.ai/
+4. Bot mający na celu pomagać w ulepszaniu siebie i np depresji
+https://www.wysa.io/
+
+Jak znacie jakieś inne warte uwagi aplikacje lub strony to piszcie.
+·······························································
+return_zero
+
+ 408 /
+ 144 /
+ 0 
+
+Re: Chatboty konwersacyjne i terapeutyczne
+Nieprzeczytany post
+autor: return_zero » 
+16 lutego 2020
+
+ Cytuj
+
+ Zgłoś
+
+Przykłady popularnych aplikacji opartych na sztucznej inteligencji, które mogą być pomocne gdy zmagamy się z depresją
+
+WoeBot
+
+Program został udostępniony w 2017 roku. Jest to tzw. chatbot, czyli program komputerowy, który wchodzi w interakcję z użytkownikiem za pomocą ludzkiego języka. Program udostępnia też pomocne filmy i ćwiczenia. Podstawą WoeBot są zasady terapii poznawczo-behawioralnej. Program zbiera też informacje o użytkowniku podczas czatowania i przetwarza je tak, aby możliwie najlepiej dostosować odpowiedzi do potrzeb odbiorcy. W miarę użytkowania odpowiedzi, generowane przez aplikację, są coraz bardziej spersonalizowane.
+
+Wysa
+
+To program także oparty o zasady psychologii poznawczo-behawioralnej. Oferuje ponadto tzw. dialektyczną terapię behawioralną (DBT), a także praktyki medytacyjne oraz motywacyjne konwersacje z botami.
+
+Tess
+
+Program oparty na zasadach psychologii poznawczo-behawioralnej oferuje spersonalizowane odpowiedzi na zadawane przez użytkownika pytania. Także ten program gromadzi wiedzę na temat użytkownika i stopniowo daje coraz bardziej dopasowaną do sytuacji odpowiedź.
+
+Youper
+
+Twórcy określają ten program jako asystenta zdrowia psychicznego. Jest aplikacją bezpłatną, wykorzystującą sztuczną inteligencję i technologię chatbot.
+https://zdrowie.gazeta.pl/Zdrowie/7,101 ... resja.html

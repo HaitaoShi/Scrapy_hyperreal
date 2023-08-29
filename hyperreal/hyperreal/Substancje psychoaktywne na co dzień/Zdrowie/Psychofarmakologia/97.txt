@@ -1,0 +1,319 @@
+Porównanie powinowactwa MXE z DXM
+https://hyperreal.info/talk/porownanie-powinowactwa-mxe-dxm-t40757.html
+
+Osogun
+
+ 183 /
+ 9 /
+ 0 
+
+Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: Osogun » 
+13 listopada 2013
+
+ Cytuj
+
+ Zgłoś
+
+Porównanie powinowactwa MXE-DXM do NMDA (fragment PCP), SERT, receptorów opioidowych (kappa,mu,delta) oraz Sigma-2. Powinowactwo wiązania w stałej dysocjacji (Ki).
+
+MXE - DXM
+Spoiler:NMDA (PCP): 257 +/- 33 nM (2.5x silniej niż ketamina) - 7,253 nM
+SERT: 479 +/- 52 nM - 23 nM
+Receptor opioidowy k: ??? nM - 7,000 nM
+R.opioidowy μ: ??? nM - 1,280 nM
+R.opioidowy δ: ??? nM - 11,500 nM
+Sigma-2: brak - 11,060 nMNMDA (PCP): 257 +/- 33 nM (2.5x silniej niż ketamina) - 7,253 nM
+SERT: 479 +/- 52 nM - 23 nM
+Receptor opioidowy k: ??? nM - 7,000 nM
+R.opioidowy μ: ??? nM - 1,280 nM
+R.opioidowy δ: ??? nM - 11,500 nM
+Sigma-2: brak - 11,060 nM
+Czy z powyższego wynika, że MXE jest słabszym inhibitorem serotoniny oraz dopaminy niż DXM, czyli dawkowanie teoretycznie powinno być większe? Jeżeli tak, to czemu jest mniejsze? Czy ktoś posiada inne dane powinowactwa MXE? (W szczególności te dotyczące receptorów opioidowych oraz muskarynowych) A może ja się po prostu w czymś mylę?
+
+Dane dotyczące MXE pochodzą z bluelight.ru
+Dotyczące DXM z angielskiej wikipedii
+
+"Nie rozpamiętuj, nie myśl, nie zastanawiaj się, nie medytuj, nie analizuj, pozostaw umysł w naturalnym stanie"
+·······························································
+Grentoo
+
+ 993 /
+ 16 /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: Grentoo » 
+14 listopada 2013
+
+ Cytuj
+
+ Zgłoś
+
+Na Dyso faze masz od antagonizmu receptora NMDA, reszta to dodatki, choć umilają lot. DXM jest słaby, dopiero metabolity mocno działają. SERT/DAT będzie odpowiadał za pobudzenie w trakcie, lub uśpienie. Opioidowe... dysocjacja w ciepłej wanience. Do tego dojdzie jeszcze biodostępność, DXM z tego co pamiętam, ma niską biodostępność (11%?), a MXE to nie wiem, ale strzelam, że dużą większą, no i można podać: donosa, per rectum, i uber wydajne domięśniowe.
+
+SHHHHHEEEEEEEEIIIITT
+·······························································
+Osogun
+
+ 183 /
+ 9 /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: Osogun » 
+14 listopada 2013
+
+ Cytuj
+
+ Zgłoś
+
+Ja to wszystko rozumiem, ale te dane wydają mi się absurdalne:
+MXE - DXM
+NMDA (PCP): 257 +/- 33 nM (2.5x silniej niż ketamina) - 7,253 nM
+Z powyższego wynika, że to DXM powinien silniej oddziaływać na receptor NMDA (bardzo dużo silniej). Częściowo mi się to zgadza, bo tak jak po 30 acodinach nie mogłem już ustać na nogach, tak nawet po 150 mg czystej MXE jestem w stanie "funkcjonować" w zewnętrznym świecie. W moim odczuciu DXM jest też bardziej halucynogenny, na co wpływa może agonizm receptora sigma-2 albo słabsze powinowactwo do receptorów muskarynowych. Z kolei MXE wydawało mi się bardziej euforyczne. Może odpowiada za to agonistyczne oddziaływanie tej substancji z receptorem D2?* Może silniej oddziałuje na receptory opioidowe?
+
+Biodostępność DXM to faktycznie 11%. Nie mam danych na temat MXE ale przypuszczam, że nie różni się dużo pod tym względem od ketaminy, której biodostępność w przypadku podania oralnego wynosi 20%.
+
+*Źródło: methoxetamine is thought to be both a noncompetitive NMDA receptor antagonist and a dopamine reuptake inhibitor. Furthermore, it acts as an agonist at dopamine D2, serotonin 5HT2, muscarinic cholinergic, sigma-1, opioid mu and k receptors.
+http://www.ncbi.nlm.nih.gov/pubmed/22819129
+
+"Nie rozpamiętuj, nie myśl, nie zastanawiaj się, nie medytuj, nie analizuj, pozostaw umysł w naturalnym stanie"
+·······························································
+artur019
+
+ 1659 /
+ 188 /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: artur019 » 
+14 listopada 2013
+
+ Cytuj
+
+ Zgłoś
+
+Osogun pisze:Ja to wszystko rozumiem, ale te dane wydają mi się absurdalne:
+MXE - DXM
+NMDA (PCP): 257 +/- 33 nM (2.5x silniej niż ketamina) - 7,253 nM
+Z powyższego wynika, że to DXM powinien silniej oddziaływać na receptor NMDA (bardzo dużo silniej).
+Poczytaj o wartości Ki. Mniej = mocniej. :retarded:
+·······························································
+m477
+
+ 338 /
+ 1 /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: m477 » 
+15 listopada 2013
+
+ Cytuj
+
+ Zgłoś
+
+Osogun pisze:Z powyższego wynika, że to DXM powinien silniej oddziaływać na receptor NMDA (bardzo dużo silniej). Częściowo mi się to zgadza, bo tak jak po 30 acodinach nie mogłem już ustać na nogach, tak nawet po 150 mg czystej MXE jestem w stanie "funkcjonować" w zewnętrznym świecie. W moim odczuciu DXM jest też bardziej halucynogenny, na co wpływa może agonizm receptora sigma-2 albo słabsze powinowactwo do receptorów muskarynowych. Z kolei MXE wydawało mi się bardziej euforyczne. Może odpowiada za to agonistyczne oddziaływanie tej substancji z receptorem D2?* Może silniej oddziałuje na receptory opioidowe?
+
+*Źródło: methoxetamine is thought to be both a noncompetitive NMDA receptor antagonist and a dopamine reuptake inhibitor. Furthermore, it acts as an agonist at dopamine D2, serotonin 5HT2, muscarinic cholinergic, sigma-1, opioid mu and k receptors.
+http://www.ncbi.nlm.nih.gov/pubmed/22819129
+powołujesz się na "publikację", w której przypisy pochodzą z takich stron jak Drugs-forum :rolleyes:
+·······························································
+Berig
+
+ 766 /
+ 133 /
+ 6
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: Berig » 
+19 listopada 2013
+
+ Cytuj
+
+ Zgłoś
+
+Jestem sceptycznie nastawiony do aktywacji receptorów opioidowych przez DXM. Ich agoniści z rodziny morfinianów muszą mieć określoną konformację przestrzenną, której DXM nie spełnia - jest odbiciem lustrzanym lewometorfanu, więc posiada tylko jedno miejsce (pierścień aromatyczny z grupą -OH) wiążące do receptorów opioidowych zamiast trzech, jak na przykład morfina (j.w, 3-rzędowa grupa aminowa, grupa hydroksylowa w pozycji 6)
+
+Harm reduction i rozsądek sposobami na to, drogi użytkowniku substancji psychoaktywnych, byś cieszył się pełnią efektów swych specyfików przez całe życie. 
+
+ZERO TOLERANCJI DLA TOLERANCJI!
+·······························································
+Osogun
+
+ 183 /
+ 9 /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: Osogun » 
+19 listopada 2013
+
+ Cytuj
+
+ Zgłoś
+
+Wiem, że czym mniejsze Ki, tym mocniejsze wiązanie... Źle odczytałeś dane.
+
+Powinowactwo wiązania z receptorem NMDA dla DXM wynosi: Ki = 7,253 nM
+Dla MXE: Ki = 259 nM
+
+Dane odnośnie DXM mam z wikipedii.
+Dane dotyczące MXE z tej pracy:
+https://www.gov.uk/government/uploads/s ... ne2012.pdf
+To są raczej wiarygodne źródła.
+
+MXE też raczej nie jest agonistą opioidowym. Kiedyś oglądałem jakiś dokument w telewizji, w którym dziennikarz stwierdził, że ketamina jest zamiennikiem heroiny (co więcej należy do tej samej grupy co kokaina) :D
+
+"Nie rozpamiętuj, nie myśl, nie zastanawiaj się, nie medytuj, nie analizuj, pozostaw umysł w naturalnym stanie"
+·······························································
+jogurt
+
+ 3237 /
+ 347 /
+ 2
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: jogurt » 
+29 listopada 2013
+
+ Cytuj
+
+ Zgłoś
+
+To Ty źle odczytałeś. Przecinek nie jest kropką. Nie wiem jak to dokładnie jest w Polsce, ale w krajach angielskich tylko kropka oddziela ułamki. Przecinki "pomocniczo" oddzielają tysiące, jak widać chuj, a nie pomoc.
+
+Zauważ, że powinowactwo do receptora kappa jest podane 7,000 nM, a nie 7 nM.
+
+L-8a - blog neurofarmakologiczno-empiryczny
+SAMURAJOGURT.BLOGSPOT.COM
+
+Pozdrawiam
+·······························································
+Berig
+
+ 766 /
+ 133 /
+ 6
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: Berig » 
+29 listopada 2013
+
+ Cytuj
+
+ Zgłoś
+
+Ano, DXM słabo blokuje kanał NMDA i jego działanie opiera się na innych mechanizmach. Dopiero po O-demetylacji do DXO zyskuje profil silnego antagonisty NMDA.
+
+Harm reduction i rozsądek sposobami na to, drogi użytkowniku substancji psychoaktywnych, byś cieszył się pełnią efektów swych specyfików przez całe życie. 
+
+ZERO TOLERANCJI DLA TOLERANCJI!
+·······························································
+Osogun
+
+ 183 /
+ 9 /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: Osogun » 
+05 grudnia 2013
+
+ Cytuj
+
+ Zgłoś
+
+A więc przecinek. Ok,wiedziałem że coś źle rozumiem. Bardzo dziękuje za wytłumaczenie :)
+
+"Nie rozpamiętuj, nie myśl, nie zastanawiaj się, nie medytuj, nie analizuj, pozostaw umysł w naturalnym stanie"
+·······························································
+kaya44
+
+ 133 /
+ 2 /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: kaya44 » 
+06 lipca 2014
+
+ Cytuj
+
+ Zgłoś
+
+Po własnej obserwacji zauważyłem, że MXE działa silniej antydepresyjnie, jak i na różne receptory "szczęścia", być może i dopaminę, lecz nie występuje przy tym pobudzenie psychoruchowe, jak to często bywa przy DXM. Chciałbym zaznaczyć, że MXE jest odpowiedzialne za silniejszą dysocjację i sedację, co wiąże się z łączeniem do zróżnicowanych receptorów(dokładnie nie wiem czy NMDA powiela efekt dysocjacji)
+·······························································
+MrocznyDeksiarz
+
+ 2 /
+ /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: MrocznyDeksiarz » 
+14 grudnia 2014
+
+ Cytuj
+
+ Zgłoś
+
+Mógł by mi ktoś porównać moc dysocjacji MXE do DXM w mg ?
+·······························································
+pilleater
+
+ 5302 /
+ 101 /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: pilleater » 
+15 grudnia 2014
+
+ Cytuj
+
+ Zgłoś
+
+Jak na moje 50 mg MXE na peaku ~ 375 mg dexa bez tolerki, na peaku
+
+Spokój jest najwyższym szczęściem ) Czanga tak bardzo
+·······························································
+Osogun
+
+ 183 /
+ 9 /
+ 0 
+
+Re: Porównanie powinowactwa MXE z DXM
+Nieprzeczytany post
+autor: Osogun » 
+06 grudnia 2015
+
+ Cytuj
+
+ Zgłoś
+
+Wygląda na to, że DXM ma też dużo silniejszy wpływ na serotoninę niż MXE a nawet niż 3-MeO-PCE. Zgadza się?
+
+Dorzucam tutaj tabelkę do tematu:
+http://journals.plos.org/plosone/articl ... ne.0059334
+
+MXE zawsze wyadawało mi się jednak bardziej "pluszowe" niż DXM. Dlatego dziwi mnie to, że DXM okazał się tak silnym SRI...
+
+Scalono - Berig
+
+"Nie rozpamiętuj, nie myśl, nie zastanawiaj się, nie medytuj, nie analizuj, pozostaw umysł w naturalnym stanie"

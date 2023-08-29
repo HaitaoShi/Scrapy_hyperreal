@@ -1,0 +1,30 @@
+Farmakokinetyka ksenobiotyków - najważniejsze parametry
+https://hyperreal.info/talk/farmakokinetyka-ksenobiotykow-najwazniejsze-parametry-t44580.html
+
+Berig
+
+ 766 /
+ 133 /
+ 6
+
+Farmakokinetyka ksenobiotyków - najważniejsze parametry
+Nieprzeczytany post
+autor: Berig » 
+22 maja 2015
+
+ Cytuj
+
+ Zgłoś
+
+Cześć! Znalazłem na bluelight.org temat w którym zgromadzono informacje na temat biologicznego okresu półtrwania i biodostępności rozmaitych farmaceutyków, dlatego postanowiłem zaszczepić ten niezwykle przydatny temat na nasz grunt. Dlaczego napisałem "ksenobiotyki"? Leki dostępne w aptece nie wyczerpują listy substancji psychoaktywnych stosowanych przez ludzi, dlatego maksymalnie rozszerzyłem pojęcie - ksenobiotykiem jest każda obca organizmowi substancja, w naszym przypadku wszelakie związki psychoaktywne. Prawdą jest, że widniejące w tytule terminy są najistotniejsze dla farmaceutyków z uwagi na ich zróżnicowanie i zostaną one opisane najszerzej, niemniej byłoby cudownie, gdyby udało się dotrzeć do danych dotyczących, dla przykładu, subtelnych różnic w biodostępności beta-ketonów, które zwykło się traktować pod tym względem jednakowo - poprzez analogię do mefedronu.
+
+http://www.bluelight.org/vb/threads/266 ... EGA-Thread - tutaj znajdziecie odpowiedni wątek na bluelight.org - naszą inspirację. My jednak rozszerzymy paletę informacji o kilka istotnych dla farmakokinetyki użytkowej parametrów, czyli o te wartości, które bezpośrednio warunkują stan nietrzeźwości (patrz schemat). Przestrzegam jednak przed przeklejaniem liczb wprost stamtąd. Obowiązkowym jest dodać do informacji o substancji źródło lub źródła, jeżeli występują rozbieżności. Wątek będzie ściśle moderowany  
+
+Schemat: 
+Nazwa substancji: droga podania - x%, droga podania2 - x% itd. Biologiczny czas półtrwania = x godzin. Tmax (czas po jakim ksenobiotyk osiąga maksymalne stężenie we krwi) = x godzin. Eliminacja poprzez mocz/żółć/kał itd (podać wartości procentowe). Metabolizm - np. wątrobowy via CYP3A4 do <aktywny metabolit> (podać narząd, enzym - najczęściej chodzi o jakąś izoformę cytochromu P450, udział procentowy poszczególnych enzymów oraz, jeżeli taka sytuacja ma miejsce, podać aktywne metabolity wraz z informacją dotyczącą ich potencjału względem związku macierzystego - można zrobić to słownie w przypadku braku dokładnych danych). Stopień wiązania z białkami - x% (istotny w przypadku niektórych interakcji lek-lek). Objętość dystrybucji - x litrów (służy do oceny zdolności związku do kumulacji w tkankach).
+
+Czas - start! Zachęcam wszystkich zainteresowanych do współpracy, temat będzie dobrą podstawą dla Kuchni Hyperreala.
+
+Harm reduction i rozsądek sposobami na to, drogi użytkowniku substancji psychoaktywnych, byś cieszył się pełnią efektów swych specyfików przez całe życie. 
+
+ZERO TOLERANCJI DLA TOLERANCJI!

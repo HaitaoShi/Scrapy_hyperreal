@@ -1,0 +1,353 @@
+Chemia/biochemia/neurologia/neurochirurgia - prace, charakterystyki, badania kliniczne
+https://hyperreal.info/talk/chemia-biochemia-neurologia-neurochirurgia-prace-charakterystyki-badania-kliniczne-t52337.html
+
+randomuser118
+
+ 1760 /
+ 99 /
+ 0 
+
+Chemia/biochemia/neurologia/neurochirurgia - prace, charakterystyki, badania kliniczne
+Nieprzeczytany post
+autor: randomuser118 » 
+12 stycznia 2017
+
+ Cytuj
+
+ Zgłoś
+
+Witam ponownie. 
+Zebralo sie tego juz naprawde wiele.
+Wiele z tych prac mi nie posluzy - posluzy ludziom o wiele wiekszej wiedzy.
+Ja staram sie zrozumiec wiele zasad oraz mechanizmow rzadzacych naszym mozgiem jak i reszta organizmu.
+Niestety na wiele pytan nie odnalazlem odpowiedzi.
+
+Prace zbiorcza ktora obejmie podstawy przedstawie niedlugo.
+Mysle, ze szablon wrzuce w terminie NIE PRZEKRACZAJACYM 7 do 10 dni.
+Nie bede juz zasmiecac innych tematow.
+Postaram sie caly czas temat uzupelniac.
+
+Czesc z tych prac jest bardzo skomplikowana, czesc z nich to proste publikacje majace przedstawic pewwne schematy.
+
+Cel pracy : przedstawienie wplywu aminokwasow (takich z pozywienia czy suplementow) na organizm czlowieka.
+na forum wiele porad mozna wyczytac nt nootropow, lekow czy narkotykow, jednak nikt nie zajal sie tym, ze to tylko srodki aktywujace pewne mechanizmy.
+Nawet najlepszy samochod z silnikiem odrzutowym po wlaniu ropy nadal bedzie tylko zwyklym samochodem. 
+
+Mechanizmy transportu i dystrybucji mitochondriów w komórce
+STRESZCZENIE
+Spoiler:Mitochondria to wewnątrzkomórkowe struktury pełniące wiele funkcji niezbędnych dla życia komórki. Organella te charakteryzują się dynamiczną naturą, podlegając ciągłym procesom fuzji i fragmentacji oraz wewnątrzkomórkowej dystrybucji. Ruch mitochondriów w komórce odbywa się wzdłuż mikrotubul, poprzez kompleks transportujący, którego głównymi elementami są białka adaptorowe i motoryczne. W zależności od kierunku przemieszczania się mitochondriów (w stronę dystalnych części komórki lub regionu okołoją-
+drowego) w transport zaangażowane są różne białka, podlegające odmiennym regulacjom.
+W poniższej pracy przedstawione zostanie podsumowanie dotychczasowej wiedzy na temat wewnątrzkomórkowego transportu mitochondriów w komórkach ssaków.
+WPROWADZENIE
+Mitochondria pełnią wiele funkcji istotnych dla życia komórki. Biorą udział w produkcji ATP, buforowaniu jonów wapnia, produkcji reaktywnych form tlenu oraz w procesie apoptozy [1,2]. Dzięki ich dynamicznej naturze i możliwości przemieszczania się w obrębie komórki mogą spełniać wiele funkcji jednocześnie w różnych przedziałach komórkowych. Odpowiednie rozmieszczenie mitochondriów jest szczególnie istotne w komórkach o spolaryzowanej budowie, takich jak neurony, których aksony mogą mieć nawet kilka metrów długości.
+Dzięki prawidłowo działającemu systemowi transportującemu możliwe jest utrzymanie puli prawidłowo funkcjonujących mitochondriów w miejscach o dużym zapotrzebowaniu na energię (np. synapsy i kolce dendrytyczne).Mitochondria to wewnątrzkomórkowe struktury pełniące wiele funkcji niezbędnych dla życia komórki. Organella te charakteryzują się dynamiczną naturą, podlegając ciągłym procesom fuzji i fragmentacji oraz wewnątrzkomórkowej dystrybucji. Ruch mitochondriów w komórce odbywa się wzdłuż mikrotubul, poprzez kompleks transportujący, którego głównymi elementami są białka adaptorowe i motoryczne. W zależności od kierunku przemieszczania się mitochondriów (w stronę dystalnych części komórki lub regionu okołoją-
+drowego) w transport zaangażowane są różne białka, podlegające odmiennym regulacjom.
+W poniższej pracy przedstawione zostanie podsumowanie dotychczasowej wiedzy na temat wewnątrzkomórkowego transportu mitochondriów w komórkach ssaków.
+WPROWADZENIE
+Mitochondria pełnią wiele funkcji istotnych dla życia komórki. Biorą udział w produkcji ATP, buforowaniu jonów wapnia, produkcji reaktywnych form tlenu oraz w procesie apoptozy [1,2]. Dzięki ich dynamicznej naturze i możliwości przemieszczania się w obrębie komórki mogą spełniać wiele funkcji jednocześnie w różnych przedziałach komórkowych. Odpowiednie rozmieszczenie mitochondriów jest szczególnie istotne w komórkach o spolaryzowanej budowie, takich jak neurony, których aksony mogą mieć nawet kilka metrów długości.
+Dzięki prawidłowo działającemu systemowi transportującemu możliwe jest utrzymanie puli prawidłowo funkcjonujących mitochondriów w miejscach o dużym zapotrzebowaniu na energię (np. synapsy i kolce dendrytyczne).
+ciag dalszy w zalaczniku: tytul taki jak powyzszy
+
+Przewodnictwo nerwowe i transmisja synaptyczna
+Spoiler:zrodlo http://users.uj.edu.pl/~upkuniec/
+Streszczenia nie bedzie, poniewaz to poprostu opis przewodnictwa nerwowego i transmisji synaptycznejzrodlo http://users.uj.edu.pl/~upkuniec/
+Streszczenia nie bedzie, poniewaz to poprostu opis przewodnictwa nerwowego i transmisji synaptycznej
+
+Mechanizm działania leków
+Spoiler:1. Wstęp
+Mechanizm działania leków:
+Działanie leku nie jest wyłącznie funkcją jego właściwości fizykochemicznych lub jego budowy,
+warunkującej łączenie się cząsteczki substancji leczniczej z właściwym dla niej „miejscem” w
+organizmie, lecz uzależnione jest także od wielu zmiennych czynników, np.: masy ciała, wielu i płci
+chorego współistnienia różnych chorób i stanu ich zaawansowania. Leki uczestniczą w procesach
+biochemicznych, toczących się nieprzerwanie w każdej komórce, aby doprowadzić zakłócone w
+stanach patologicznych procesy do stanu prawidłowego.
+Mówiąc o właściwościach fizykochemicznych leku mamy na myśli jego rozpuszczalność,
+współczynnik podziału n-oktanol/woda, stopień jonizacji, jego aktywność kapilarną, aktywność
+powierzchniową.
+Efekt izosteryczny – związany z pojęciem podobieństwa geometrii ; zmieniając strukturę
+zmieniamy właściwości.
+Mechanizm chemiczny działania leków – leki o tym samym mechanizmie działania są związkami
+bardzo aktywnymi chemicznie, o swoistym działaniu uzależnionym od budowy chemicznej;
+działanie to jest wynikiem chemicznego łączenia cząsteczek leku z receptorami lub też wpływem na
+aktywność enzymów, która najczęściej pod wpływem leku ulega zahamowaniu. Końcowego
+wyzwolenie efektu farmakologicznego jest wynikiem szeregu procesów biochemicznych.
+Doprowadziło to do powstania teorii receptorowej. W wyniku przyczepienia się do receptora,
+można określić miejsce uchwytu leku oraz można zaobserwować zmiany leku, mikrostruktury.
+Teoria receptorowa:
+Receptor – biopolimer o strukturze białkowej będący w stanie rozpoznawać określone ligandy
+(ligandy endogenne np. neuroprzekaźniki, ligandy egzogenne np. leki lub inne substancje)
+Według tej teorii warunkiem wystąpienia działania farmakologicznego jest połączenie się
+cząsteczki określonego leku z właściwym dla niego miejscem na błonie komórkowej lub z
+odpowiednim receptorem.
+Receptor posiada zdolność tworzenia kompleksu aktywnego z ligandem. Powoduje to szereg zmian
+strukturalnych i elektronowych w receptorze, a także w ligandzie, co prowadzi do określonego
+efektu biologicznego. Receptory mają swoisty charakter, tzn., że ich rodzaj i budowa przestrzenna
+grup czynnych powoduje ścisłe oddziaływanie leku z receptorem.
+Można też mówić o wybiórczym działaniu leków, które mogą się dopasowywać poprzez
+przekształcenia do „luk” receptora. 
+Zrodlo :http://www.retsat1.com.pl1. Wstęp
+Mechanizm działania leków:
+Działanie leku nie jest wyłącznie funkcją jego właściwości fizykochemicznych lub jego budowy,
+warunkującej łączenie się cząsteczki substancji leczniczej z właściwym dla niej „miejscem” w
+organizmie, lecz uzależnione jest także od wielu zmiennych czynników, np.: masy ciała, wielu i płci
+chorego współistnienia różnych chorób i stanu ich zaawansowania. Leki uczestniczą w procesach
+biochemicznych, toczących się nieprzerwanie w każdej komórce, aby doprowadzić zakłócone w
+stanach patologicznych procesy do stanu prawidłowego.
+Mówiąc o właściwościach fizykochemicznych leku mamy na myśli jego rozpuszczalność,
+współczynnik podziału n-oktanol/woda, stopień jonizacji, jego aktywność kapilarną, aktywność
+powierzchniową.
+Efekt izosteryczny – związany z pojęciem podobieństwa geometrii ; zmieniając strukturę
+zmieniamy właściwości.
+Mechanizm chemiczny działania leków – leki o tym samym mechanizmie działania są związkami
+bardzo aktywnymi chemicznie, o swoistym działaniu uzależnionym od budowy chemicznej;
+działanie to jest wynikiem chemicznego łączenia cząsteczek leku z receptorami lub też wpływem na
+aktywność enzymów, która najczęściej pod wpływem leku ulega zahamowaniu. Końcowego
+wyzwolenie efektu farmakologicznego jest wynikiem szeregu procesów biochemicznych.
+Doprowadziło to do powstania teorii receptorowej. W wyniku przyczepienia się do receptora,
+można określić miejsce uchwytu leku oraz można zaobserwować zmiany leku, mikrostruktury.
+Teoria receptorowa:
+Receptor – biopolimer o strukturze białkowej będący w stanie rozpoznawać określone ligandy
+(ligandy endogenne np. neuroprzekaźniki, ligandy egzogenne np. leki lub inne substancje)
+Według tej teorii warunkiem wystąpienia działania farmakologicznego jest połączenie się
+cząsteczki określonego leku z właściwym dla niego miejscem na błonie komórkowej lub z
+odpowiednim receptorem.
+Receptor posiada zdolność tworzenia kompleksu aktywnego z ligandem. Powoduje to szereg zmian
+strukturalnych i elektronowych w receptorze, a także w ligandzie, co prowadzi do określonego
+efektu biologicznego. Receptory mają swoisty charakter, tzn., że ich rodzaj i budowa przestrzenna
+grup czynnych powoduje ścisłe oddziaływanie leku z receptorem.
+Można też mówić o wybiórczym działaniu leków, które mogą się dopasowywać poprzez
+przekształcenia do „luk” receptora. 
+Zrodlo :http://www.retsat1.com.pl
+
+Małgorzata Rzewuska
+LECZENIE BEZSENNOŚCI
+Spoiler:Samodzielna Pracownia Farmakoterapii
+Instytutu Psychiatrii i Neurologii w Warszawie
+Bezsenność to niedostateczna jakość i/lub długość snu. Pacjenci dotknięci
+bezsennością uskarżają się na:
+- utrudnione zasypianie (wydłużona latencja snu)
+- zaburzenia ciągłości snu (częste budzenie)
+- przedwczesne budzenie (skrócenie snu)
+- brak snu lub zlą jakość snu nie przynoszącego wypoczynku, z towarzyszącym
+upośledzeniem funkcjonowania w ciągu dnia.
+Zaburzenia snu mogą być podstawowym lub towarzyszącym objawem licznych
+chorób somatycznych lub psychicznych, niekiedy wiążą się ze stosowaniem
+leków lub alkohoiu. Czasem trudno ustalić przyczynę (tzw. bezsenność
+pierwotna). Bezsenność w zależności od jej czasu trwania dzieli się na:
+- przygodną (trwającą kilka dni),
+- krótkotrwalą (trwającą do 3 tygodni) i
+- bezsenność przetrwałą (przewlekłą, trwającą ponad 3 tygodnie).
+Bezsenność przewlekła może rozwinąć się z zaburzeń przejściowych, ale niekiedy
+wynika z przewlekłego lęku lub występuje bez uchwytnej przyczyny -
+bezsenność psychofizjologiczna. Może także wynikać z innych przyczyn: chorób
+psychicznych (afektywnych, schizofrenii, zaburzeń lękowych, zespołów otę­
+piennych), z używania substancji psychoaktywnych (alkoholu, środków
+uzależniających). Może także wiązać się z zaburzeniami oddychania (bezdechy
+podczas snu). Przyczyną bezsenności są także nocne mioklonie i "zespół niespokojnych
+nóg". Często bezsenność towarzyszy chorobom somatycznym i zatruciom.
+Bardzo rzadko bezsenność trwa od dzieciństwa i jest spowodowana
+organicznym uszkodzeniem ośrodkowego układu nerwowego, w tym struktur
+odpowiedzialnych za rytm snu i czuwania. 
+zrodlo:http://old.ipin.edu.pl/fpn/archiwum/199 ... 998-04.pdfSamodzielna Pracownia Farmakoterapii
+Instytutu Psychiatrii i Neurologii w Warszawie
+Bezsenność to niedostateczna jakość i/lub długość snu. Pacjenci dotknięci
+bezsennością uskarżają się na:
+- utrudnione zasypianie (wydłużona latencja snu)
+- zaburzenia ciągłości snu (częste budzenie)
+- przedwczesne budzenie (skrócenie snu)
+- brak snu lub zlą jakość snu nie przynoszącego wypoczynku, z towarzyszącym
+upośledzeniem funkcjonowania w ciągu dnia.
+Zaburzenia snu mogą być podstawowym lub towarzyszącym objawem licznych
+chorób somatycznych lub psychicznych, niekiedy wiążą się ze stosowaniem
+leków lub alkohoiu. Czasem trudno ustalić przyczynę (tzw. bezsenność
+pierwotna). Bezsenność w zależności od jej czasu trwania dzieli się na:
+- przygodną (trwającą kilka dni),
+- krótkotrwalą (trwającą do 3 tygodni) i
+- bezsenność przetrwałą (przewlekłą, trwającą ponad 3 tygodnie).
+Bezsenność przewlekła może rozwinąć się z zaburzeń przejściowych, ale niekiedy
+wynika z przewlekłego lęku lub występuje bez uchwytnej przyczyny -
+bezsenność psychofizjologiczna. Może także wynikać z innych przyczyn: chorób
+psychicznych (afektywnych, schizofrenii, zaburzeń lękowych, zespołów otę­
+piennych), z używania substancji psychoaktywnych (alkoholu, środków
+uzależniających). Może także wiązać się z zaburzeniami oddychania (bezdechy
+podczas snu). Przyczyną bezsenności są także nocne mioklonie i "zespół niespokojnych
+nóg". Często bezsenność towarzyszy chorobom somatycznym i zatruciom.
+Bardzo rzadko bezsenność trwa od dzieciństwa i jest spowodowana
+organicznym uszkodzeniem ośrodkowego układu nerwowego, w tym struktur
+odpowiedzialnych za rytm snu i czuwania. 
+zrodlo:http://old.ipin.edu.pl/fpn/archiwum/199 ... 998-04.pdf
+Benzodiazepiny – zalety i ryzyko stosowania
+Anna Basińska-Szafrańska
+Spoiler:Benzodiazepiny są lekami budzącymi spore kontrowersje. są atrakcyjne w zastosowaniach doraźnych, jednak wskazania do ich
+podawania są wąskie i określają wyraźne limity czasu ich stosowania (2-4 tygodnie). Jeśli się je przekroczy, przy przewlekłym
+podawaniu benzodiazepiny, działające wyłącznie objawowo, po początkowej uldze nie tylko niweczą pierwotny efekt, ale przyczyniają
+się do wzbogacenia obrazu klinicznego o kolejne nowe objawy. Objawy te, będące wynikiem toksemii lub powtarzającego się
+regularnie zespołu odstawiennego, wynikają z rozwoju tolerancji i uzależnienia. Gdy zdominują przebieg leczenia, uniemożliwiają
+sukces nawet po włączeniu prawidłowej terapii. Na tym etapie warunkiem koniecznym do osiągnięcia poprawy w leczeniu
+pierwotnego zaburzenia psychicznego pacjenta (np. lękowego) jest poddanie go najpierw specjalistycznej detoksykacji.
+zrodlo: https://podyplomie.pl/Benzodiazepiny są lekami budzącymi spore kontrowersje. są atrakcyjne w zastosowaniach doraźnych, jednak wskazania do ich
+podawania są wąskie i określają wyraźne limity czasu ich stosowania (2-4 tygodnie). Jeśli się je przekroczy, przy przewlekłym
+podawaniu benzodiazepiny, działające wyłącznie objawowo, po początkowej uldze nie tylko niweczą pierwotny efekt, ale przyczyniają
+się do wzbogacenia obrazu klinicznego o kolejne nowe objawy. Objawy te, będące wynikiem toksemii lub powtarzającego się
+regularnie zespołu odstawiennego, wynikają z rozwoju tolerancji i uzależnienia. Gdy zdominują przebieg leczenia, uniemożliwiają
+sukces nawet po włączeniu prawidłowej terapii. Na tym etapie warunkiem koniecznym do osiągnięcia poprawy w leczeniu
+pierwotnego zaburzenia psychicznego pacjenta (np. lękowego) jest poddanie go najpierw specjalistycznej detoksykacji.
+zrodlo: https://podyplomie.pl/
+
+Ciag dalszy jutro. Wiele z tych prac zostalo tylko przejrzanych. Do czesci sie wczytalem.
+3x tyle czeka na przejrzenie. POstaram sie nie dublowac prac i dobierac tak prace, zeby byly czytelne i dla fachowcow i dla laikow.
+Nie masz wymaganych uprawnień, aby zobaczyć pliki załączone do tego posta.
+
+Uwaga! Użytkownik randomuser118 nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+randomuser118
+
+ 1760 /
+ 99 /
+ 0 
+
+Re: Chemia/biochemia/neurologia/neurochirurgia - prace, charakterystyki, badania kliniczne
+Nieprzeczytany post
+autor: randomuser118 » 
+12 stycznia 2017
+
+ Cytuj
+
+ Zgłoś
+
+Maria Jessa, Maciej Nazar, Adam Płaźnik 
+Antagoniści aminokwasów pobudzających
+w fannakoterapii chorób układu nerwowego
+Zakład Farmakologii i Fizjologii Układu Nerwowego
+Instytut Psychiatrii i Neurologii, Warszawa
+Zakład Farmakologii Doświadczalnej i lUinicznej
+Akademia Medyczna, Warszawa
+Spoiler:StreszczeHilie
+Autorzy prezentują aktualne dane, dotyczące neurobiologicznych podstaw stosowania antagonistów
+aminokwasów pobudzających w klinice. Mimo że związki te nie są obecnie powszechi1ie
+stosowane w terapii chorób układu nerwowego, istnieją teoretyczne wskazania do testowania ich
+skuteczności w chorobie Parkinsona, depresji, padaczce, schorzeniach neurodegeneracyjnych i stanach
+niedokrwienia ośrodkowego układu nerwowego. 
+http://old.ipin.edu.pl/StreszczeHilie
+Autorzy prezentują aktualne dane, dotyczące neurobiologicznych podstaw stosowania antagonistów
+aminokwasów pobudzających w klinice. Mimo że związki te nie są obecnie powszechi1ie
+stosowane w terapii chorób układu nerwowego, istnieją teoretyczne wskazania do testowania ich
+skuteczności w chorobie Parkinsona, depresji, padaczce, schorzeniach neurodegeneracyjnych i stanach
+niedokrwienia ośrodkowego układu nerwowego. 
+http://old.ipin.edu.pl/
+Układy monoaminergiczne i cholinergiczne mózgu. Ich rola fizjologiczna i w procesach patologicznych mózgu
+Spoiler:Prezentacja
+zrodlo:http://patomorfologia-cmuj.plPrezentacja
+zrodlo:http://patomorfologia-cmuj.pl
+Praca nie m iesci sie na serwerze
+link
+http://www32.zippyshare.com/v/lRVF5vJ5/file.html
+
+Badanie udziału jonotropowych receptorów glutaminianergicznych NMDA i AMPA w mechanizmie działania
+leków przeciwdepresyjnych
+Małgorzata Wola
+Spoiler:Depresja
+Depresja jako choroba znana była i opisywana już w starożytności (Jaracz J. 2008).
+Obecnie jest ona najbardziej rozpowszechnionym zaburzeniem psychicznym, często źle
+diagnozowanym i nie leczonym. Zaliczana jest do chorób afektywnych i występuje w wielu
+różnych odmianach, co często utrudnia jej rozpoznawanie przez lekarzy. Jest przyczyną
+dużego cierpienia i zaburzenia prawidłowego funkcjonowania w rodzinie i społeczeństwie ok.
+12% populacji (Dudek 2003, Murray i wsp. 1996).
+Do najbardziej charakterystycznych objawów depresji zalicza się silne obniżenie
+nastroju nieproporcjonalne do sytuacji życiowej, anhedonię, zaburzenia apetytu,
+bezsenność, spowolnienie psychomotoryczne, lęk, poczucie winy, niską samoocenę,
+pesymizm, myśli i próby samobójcze (Breslin 1998).
+Obecnie istnieje wiele leków przeciwdepresyjnych o różnej budowie i mechanizmach
+działania, jak również kilka sposobów terapii niefarmakologicznych, takich jak
+elektrowstrząsy, deprywacja snu, fototerapia, przezczaszkowa stymulacja
+elektromagnetyczna oraz psychoterapia. Wszystkie te metody łącznie z dostępną
+farmakoterapią nie przynoszą zadowalających efektów terapeutycznych u dużej grupy
+pacjentów. Ok. 30% chorych nie uzyskuje poprawy po pierwszej kuracji lekami
+przeciwdepresyjnymi a 10% nie udaje się wyleczyć mimo stosowania wielu różnych leków.
+Skuteczna terapia przeciwdepresyjna trwa od kilku tygodni do kilku miesięcy. Powyższe
+problemy skupiają uwagę naukowców na poszukiwaniu nowych teorii wyjaśniających
+patomechanizm depresji jak i bardziej skutecznych, bezpiecznych i szybko działających leków
+przeciwdepresyjnych (Zyss i wsp. 2010).
+Aktualnie znanych jest kilka teorii wyjaśniających mechanizmy powstawania i leczenia
+depresji.Depresja
+Depresja jako choroba znana była i opisywana już w starożytności (Jaracz J. 2008).
+Obecnie jest ona najbardziej rozpowszechnionym zaburzeniem psychicznym, często źle
+diagnozowanym i nie leczonym. Zaliczana jest do chorób afektywnych i występuje w wielu
+różnych odmianach, co często utrudnia jej rozpoznawanie przez lekarzy. Jest przyczyną
+dużego cierpienia i zaburzenia prawidłowego funkcjonowania w rodzinie i społeczeństwie ok.
+12% populacji (Dudek 2003, Murray i wsp. 1996).
+Do najbardziej charakterystycznych objawów depresji zalicza się silne obniżenie
+nastroju nieproporcjonalne do sytuacji życiowej, anhedonię, zaburzenia apetytu,
+bezsenność, spowolnienie psychomotoryczne, lęk, poczucie winy, niską samoocenę,
+pesymizm, myśli i próby samobójcze (Breslin 1998).
+Obecnie istnieje wiele leków przeciwdepresyjnych o różnej budowie i mechanizmach
+działania, jak również kilka sposobów terapii niefarmakologicznych, takich jak
+elektrowstrząsy, deprywacja snu, fototerapia, przezczaszkowa stymulacja
+elektromagnetyczna oraz psychoterapia. Wszystkie te metody łącznie z dostępną
+farmakoterapią nie przynoszą zadowalających efektów terapeutycznych u dużej grupy
+pacjentów. Ok. 30% chorych nie uzyskuje poprawy po pierwszej kuracji lekami
+przeciwdepresyjnymi a 10% nie udaje się wyleczyć mimo stosowania wielu różnych leków.
+Skuteczna terapia przeciwdepresyjna trwa od kilku tygodni do kilku miesięcy. Powyższe
+problemy skupiają uwagę naukowców na poszukiwaniu nowych teorii wyjaśniających
+patomechanizm depresji jak i bardziej skutecznych, bezpiecznych i szybko działających leków
+przeciwdepresyjnych (Zyss i wsp. 2010).
+Aktualnie znanych jest kilka teorii wyjaśniających mechanizmy powstawania i leczenia
+depresji.
+Plik nie miesci sie na serwerze
+link
+http://www32.zippyshare.com/v/sHf7loGG/file.html
+
+Farmakoterapia katatonii
+Brendan T. Carroll, MD, Joseph W.Y. Lee, MBBS, MRCPsych, FRANZCP,
+Francisco Appiani, MD, Christopher Thomas, PharmD, BCPP
+Zrodlo:https://podyplomie.pl
+Spoiler:Streszczenie
+Katatonia jest ważnym zespołem klinicznym występującym w przebiegu zaburzeń
+afektywnych, psychotycznych, autystycznych, rozwojowych i somatycznych. Farmakoterapia
+katatonii jest złożona ze względu na możliwość wykorzystywania wielu różnych leków.
+Proponowane mechanizmy patofizjologiczne katatonii obejmują wpływ: zmniejszonej
+aktywności kwasu γ-aminomasłowego (GABAA ), zmniejszonej aktywności dopaminy
+działającej na receptor D2
+, nadmiernej aktywności glutamino-N-metylo-D-asparaginianiu,
+nadmiernej aktywności serotoniny działającej na receptor 5-HT2 i nadmiernej aktywności
+cholinergicznej. W farmakoterapii katatonii wykorzystuje się benzodiazepiny, leki
+wzmacniające działanie GABA, niektóre leki przeciwdrgawkowe, inhibitory
+glutaminianu i leki przeciwpsychotyczne drugiej generacji. Niejasna pozostaje rola leków
+przeciwpsychotycznych pierwszej generacji. Katatonia, która jest zespołem uleczalnym,
+występuje w przebiegu wielu różnych zaburzeń psychicznych, somatycznych i neurologicznych.
+Lekarze mogą skorzystać z wiedzy o farmakologicznych opcjach terapeutycznych leczenia
+katatonii.Streszczenie
+Katatonia jest ważnym zespołem klinicznym występującym w przebiegu zaburzeń
+afektywnych, psychotycznych, autystycznych, rozwojowych i somatycznych. Farmakoterapia
+katatonii jest złożona ze względu na możliwość wykorzystywania wielu różnych leków.
+Proponowane mechanizmy patofizjologiczne katatonii obejmują wpływ: zmniejszonej
+aktywności kwasu γ-aminomasłowego (GABAA ), zmniejszonej aktywności dopaminy
+działającej na receptor D2
+, nadmiernej aktywności glutamino-N-metylo-D-asparaginianiu,
+nadmiernej aktywności serotoniny działającej na receptor 5-HT2 i nadmiernej aktywności
+cholinergicznej. W farmakoterapii katatonii wykorzystuje się benzodiazepiny, leki
+wzmacniające działanie GABA, niektóre leki przeciwdrgawkowe, inhibitory
+glutaminianu i leki przeciwpsychotyczne drugiej generacji. Niejasna pozostaje rola leków
+przeciwpsychotycznych pierwszej generacji. Katatonia, która jest zespołem uleczalnym,
+występuje w przebiegu wielu różnych zaburzeń psychicznych, somatycznych i neurologicznych.
+Lekarze mogą skorzystać z wiedzy o farmakologicznych opcjach terapeutycznych leczenia
+katatonii.
+link:
+http://www29.zippyshare.com/v/GVzmPM8Z/file.html
+
+Wybrane układy neurotransmiterowe i neuromodulacyjne w układzie nerwowym
+Spoiler:zrodlo :http://www.biology.arch.ug.edu.pl
+ogolna prezentacja. Polecam laikom.zrodlo :http://www.biology.arch.ug.edu.pl
+ogolna prezentacja. Polecam laikom.
+http://www117.zippyshare.com/v/rs6h8kIZ/file.html
+
+Neurotransmitery
+Spoiler:Kolejna prezentacja .
+Takze polecam laikom
+zrodlo: http://www.zbf.wbbib.uj.edu.pl/Kolejna prezentacja .
+Takze polecam laikom
+zrodlo: http://www.zbf.wbbib.uj.edu.pl/
+Nie masz wymaganych uprawnień, aby zobaczyć pliki załączone do tego posta.
+
+Uwaga! Użytkownik randomuser118 nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.

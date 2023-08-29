@@ -1,0 +1,857 @@
+Farmakodynamika kodeiny.
+https://hyperreal.info/talk/farmakodynamika-kodeiny-t42580.html
+
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: tur3k » 
+03 lipca 2014
+
+ Cytuj
+
+ Zgłoś
+
+Na wstępie chciałbym się przywitać :hug: I powiedzieć, że jak coś się robi, to nie od dupy strony, a tak jak trzeba - czyli od początku.
+
+W tym dziale panuje swoisty mit, jakoby jedynym aktywnym i wartym uwagi metabolitem kodeiny była morfina, lecz jest to nie prawda. Chciałbym ten mit obalić, a przy okazji może się dowiedzieć czegoś nowego. Na początek wkleję parę cytatów z tego działu:
+
+#1:
+Oltun pisze:dla scislosci to jakies 80% kody zostaje przerobione przez ugt2b7 do 6-glukuronidu kodeiny, pozostale procenty dziela sie na substancje rozkladane przez cyp3a4 i 2d6. tak wiec c6g jest glownym metabolitem, a nie norkodeina. inhibitujac 3a4 niekoniecznie wzmacniamy kode, po prostu wieksza porcja dawki zostaje strawiona przez ugt2b7, nie 2d6. poza tym norkodeina jest dalej metabolizowana do normorfiny, ta zas ma dzialanie psychoaktywne, ok 50% majki. byc moze wlasnie dlatego grejpfrut nie sprawdza sie w praktyce
+http://hyperreal.info/talk/knajpa-kodei ... l#p1274624
+
+#2:
+himself pisze:ugt2b7 = 80-85% = glukuronidy
+cyp3a4 = 5-10% = norkodeina
+cyp2d6 = 5-10% = morfina
+[...]
+reasumujac grejpfrut nadaje sie tylko do wzmacniania substancji niebedacych prolekami P450
+
+no ale jak komus rzeczywiscie podbija kode to sie bardzo ciesze 
+http://hyperreal.info/talk/kodeina-grej ... ml#p875397
+
+Dlaczego o tym wspominam ? Ano dlatego, że swego czasu wskoczyłem na lamotryginę, która jest silnie metabolizowana przez UGT1A4, a nawet gdy 600mg kody potrafiło się załadować, peak trwał 10 minut, nie był jakiś super mocny a potem wracałem do trzeźwości, czyli wkurwienia że wyjebałem kasę w błoto. Tolerancję miałem na poziomie 300mg - po tej dawce fajnie się funkcjonowało, 450mg bardziej na solowe upierdolenie na łóżku niż bieganie po mieście. Byłem na dawce lamotryginy 100mg/d. Potem odstawiłem i koda znów klepała, a wystarczyło dwie godziny przez koda znów zarzucić 100mg lamotryginy aby z fazy gówno było.
+
+No to już parę punktów zaczepienia mamy:
+- glukornidy (jak to się tłumaczy z ang ?) kodeiny są aktywne i odgrywają główną rolę w działaniu rekreacyjnym kodeiny
+- glukornidy kodeiny powstają głównie dzięki enzymom UGT1A4 oraz UGT2B6
+- UDP-glukoronosyltransferazie zawdzięczamy 'klepanie' kodeiny
+- wysycenie enzymu UGT1A4 zmniejsza odczuwalne działanie kodeiny o ponad 90%
+
+Pomiędzy enzymami UGT1A4 oraz UGT2B6 zachodzi pewna korelacja, tj wysycenie jednego zabiera 'paliwo' także drugiemu. Oba enzymy korzystają z 'Hyodeoxycholic acid' (niech ktoś to przetłumaczy, nie chce się silić na jakieś idiotycznie brzmiące i do tego mylące zwroty) jest głównym paliwem dla powyższych enzymów przerabiających kodę do aktywnych metabolitów, głównie C6G.
+
+Tyle rozważań z mojej strony. Jeśli ktoś chce coś dodać, bądź sprostować jakąś bzdurę to zapraszam. Nie mam wielkiej wiedzy z tego zakresu, więc gdzieś mogłem walnąć techniczną gafę, jednak sam post i kierunek jaki został obrany jest jak najbardziej prawidłowy.
+
+No one survived.
+·······························································
+stary dziad
+
+ 1504 /
+ 156 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: stary dziad » 
+05 lipca 2014
+
+ Cytuj
+
+ Zgłoś
+
+Ludzie, nie tylko angielski jest na tym świecie, nie żadne glukuronidy tylko glukuroniany to metabolity różnych związków chemicznych dostarczanych do organizmu.
+·······························································
+jacok
+
+ 1986 /
+ 104 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: jacok » 
+05 lipca 2014
+
+ Cytuj
+
+ Zgłoś
+
+o potencjalnym działaniu rekreacyjnym glukuronianów kodeiny już kiedyś pisałem, jeszcze chyba w starym FAQ. Poza wzmiankami i jednym badaniem, przytoczonym przez Erowida, nie znalazłem nic definitywnie zamykającego temat. Obawiam się, że brak mi wiedzy i doświadczenia, by zweryfikować tamte informacje.
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: tur3k » 
+21 lipca 2014
+
+ Cytuj
+
+ Zgłoś
+
+stary dziad pisze:Ludzie, nie tylko angielski jest na tym świecie, nie żadne glukuronidy tylko glukuroniany to metabolity różnych związków chemicznych dostarczanych do organizmu.
+No widzisz, dlatego pisałem prośbę o zwrócenie mi na to uwagi ;-) Niestety nie mogę już edytować.
+Dziwne, że w tym temacie taka cisza, ludzie dalej kombinują z CYP2D6 i CYP3A4, a to nie tędy droga ;]
+
+No one survived.
+·······························································
+jacok
+
+ 1986 /
+ 104 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: jacok » 
+24 lipca 2014
+
+ Cytuj
+
+ Zgłoś
+
+Nie do końca się z Tobą zgodzę. Nie odkryłeś ameryki tym opisem, choć zwróciłeś uwagę, na "mitologię" działu kodeina (ludzie piszą tu o wpływie sposobu kruszenia tabletek na moc kody, lol).
+
+Nie ulega wątpliwości (imho), że morfina jako aktywny metabolit kodeiny ma znaczenie, zacznę choćby od najbanalniejszego przykładu (choć nie definitywnego), że koda w wystarczającym stopniu przechodzi do majki, aby być wykrywana na testach, i to już od ilości 75mg (kiedyś testowałem, zrobiłem test - negatywny, pół paczki thio i kilka godzin później był już pozytywny). To tylko rzecz jasna pojedyncze doswiadczenie i wcale jeszcze o niczym nie świadczy.
+
+Oczywiscie glukuroniany też grają swoją rolę, nie odmówię Ci racji że zwracasz uwagę na tę cześc farmakodynamiki kody. Chciałbym tylko zauważyć, że opierasz swoją tezę (a już szczególnie wyliczenia typu "90% odczuwalnego działania kodeiny") na subiektywnej opinii opartej na pojedynczym doświadczeniu na grupie kontrolnej składającej się z 1 osoby! :)
+
+To oczywiście tylko wycinek całości. Rozkmina ciekawa, ale bez dokładniejszch badań (jak poszukasz znajdziesz te z erowida, może koleś ma w bibliografii coś przydatnego) to wciąż tylko ciekawostka. Ale mimo wszystko trzymam kciuki za twój research w tym kierunku. Probsy man.
+·······························································
+sqciu
+
+ 267 /
+ 15 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: sqciu » 
+25 lipca 2014
+
+ Cytuj
+
+ Zgłoś
+
+tur3k pisze:
+Dlaczego o tym wspominam ? Ano dlatego, że swego czasu wskoczyłem na lamotryginę, która jest silnie metabolizowana przez UGT1A4, a nawet gdy 600mg kody potrafiło się załadować, peak trwał 10 minut, nie był jakiś super mocny a potem wracałem do trzeźwości, czyli wkurwienia że wyjebałem kasę w błoto. Tolerancję miałem na poziomie 300mg - po tej dawce fajnie się funkcjonowało, 450mg bardziej na solowe upierdolenie na łóżku niż bieganie po mieście. Byłem na dawce lamotryginy 100mg/d. Potem odstawiłem i koda znów klepała, a wystarczyło dwie godziny przez koda znów zarzucić 100mg lamotryginy aby z fazy gówno było.
+
+No to już parę punktów zaczepienia mamy:
+- glukornidy (jak to się tłumaczy z ang ?) kodeiny są aktywne i odgrywają główną rolę w działaniu rekreacyjnym kodeiny
+- glukornidy kodeiny powstają głównie dzięki enzymom UGT1A4 oraz UGT2B6
+- UDP-glukoronosyltransferazie zawdzięczamy 'klepanie' kodeiny
+- wysycenie enzymu UGT1A4 zmniejsza odczuwalne działanie kodeiny o ponad 90%
+
+Pomiędzy enzymami UGT1A4 oraz UGT2B6 zachodzi pewna korelacja, tj wysycenie jednego zabiera 'paliwo' także drugiemu. Oba enzymy korzystają z 'Hyodeoxycholic acid' (niech ktoś to przetłumaczy, nie chce się silić na jakieś idiotycznie brzmiące i do tego mylące zwroty) jest głównym paliwem dla powyższych enzymów przerabiających kodę do aktywnych metabolitów, głównie C6G.
+
+UGT1A4 - nie bierze udziału w reakcji zamiany kody w C6G
+UGT2B6 - nie dość że nie bierze udziału w tej reakcji to jeszcze nie ma nic wspólnego z HDCA
+UGT2B7 - za to bierze udział w tej reakcji ii tak jak UGT1A4 korzysta z HDCA, podejrzewam więc że to białko miałeś na myśli.
+z tym że bierze ono udział również w rekacji zamiany majki w m6g i m3g czyli odpowiada też za działanie majki. 
+Tak więc jedyne co udowodniłeś to to że UDP-glukoronosyltransferazie zawdzięczamy działanie kody.
+
+Sama w sobie teoria zaś wydaje się logiczna. Skoro majka bezpośrednio (niemal) nie wpływa na receptory opioidowe a dopiero efekt jej reakcji z UDP-glukoronosyltransferazą, to czemu z kodą nie ma być podobnie? Wyjaśniałoby to czemu koda grzeje zupełnie inaczej niż maja.
+Jednak fakt że koda sama w sobie działa nie znaczy że o majce można w tym momencie zapomnieć. Metabolit kodeiny wykazuje dużo mniejsze powinowactwo do receptorów opioidowych. Szacuje się że 40-60% mocy kody to właśnie C6G
+
+Ogólnie mało jest wiarygodnych materiałów na ten temat
+
+Kiedy celem jest brak celu.
+Sex, drugs &AMP; rap - to mój przepis na życie.
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: tur3k » 
+08 sierpnia 2014
+
+ Cytuj
+
+ Zgłoś
+
+jacok pisze:Oczywiscie glukuroniany też grają swoją rolę, nie odmówię Ci racji że zwracasz uwagę na tę cześc farmakodynamiki kody. Chciałbym tylko zauważyć, że opierasz swoją tezę (a już szczególnie wyliczenia typu "90% odczuwalnego działania kodeiny") na subiektywnej opinii opartej na pojedynczym doświadczeniu na grupie kontrolnej składającej się z 1 osoby! :)
+Jak ktoś chętny do testów to zapraszam. Masz rację, że jedna osoba to o wiele za mało aby brać to za pewniak, tylko nie wiem czy ktoś będzie chętny na wywalanie kasy w błoto. Dofinansowania z UE raczej nie dostanę  Póki co są to dość odważne założenia po eksperymentach badacza :)
+sqciu pisze:Tak więc jedyne co udowodniłeś to to że UDP-glukoronosyltransferazie zawdzięczamy działanie kody.
+Od czegoś trzeba zacząć, hehe. Niestety nie mam wystarczającej wiedzy, aby głębiej zanurkować w ten temat, byłbym wdzięczny wszystkim za jego rozwijanie.
+sqciu pisze:Skoro majka bezpośrednio (niemal) nie wpływa na receptory opioidowe a dopiero efekt jej reakcji z UDP-glukoronosyltransferazą
+Możesz rozwinąć ? Jakieś linki czy naukowe artykuły mile widziany.
+
+Kolejne pytanie: dlaczego zapalenie papierosa podbija na chwilę działanie kodeiny (zwiększa sedację) i jednocześnie skraca fazę ?
+
+No one survived.
+·······························································
+wicknesss
+
+ 343 /
+ 3 /
+ 1
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: wicknesss » 
+08 sierpnia 2014
+
+ Cytuj
+
+ Zgłoś
+
+Kolejne pytanie: dlaczego zapalenie papierosa podbija na chwilę działanie kodeiny (zwiększa sedację) i jednocześnie skraca fazę ?
+Po pierwsze - u każdego działa to inaczej, mianowicie zależy od tego: czy pali regularnie, jak dużo pali, jak mocne papierosy i w jakim odstępie czasu od wzięcia kody.
+Po drugie - to tylko moja teoria :finger: - zwiększona sedacja może być efektem paradoksalnym /nie znam się na farmakodynamice więc mogę bredzić/ łączenia nikotyny i metabolitów kodeiny? Z kolei w moim przypadku /i paru znajomych opiowraczków  / papierosy nie wpływają ani na zmiane, ani na skrócenie fazy. Palę za to zdecydowanie więcej, bo smakują ;) ;] 
+Spoiler:bardziej zainteresowałbym się łączeniem kodeiny i antyhistamin / benzodiazepin od strony farmakolololodynamicznej. wiem że dużo o tym jest w tematach o wzmacnianiu działania etc, ale dlaczego, jak? :listen:bardziej zainteresowałbym się łączeniem kodeiny i antyhistamin / benzodiazepin od strony farmakolololodynamicznej. wiem że dużo o tym jest w tematach o wzmacnianiu działania etc, ale dlaczego, jak? :listen:
+
+"Lets go Batman and Robin. Rob a pharmacy on the comedown."
+
+Spoiler:wszystko co zostało przeze mnie napisane na tym forum jest fikcją. 
+zdarzenia, osoby, miejsca i rzeczy istnieją tylko w mojej głowie.wszystko co zostało przeze mnie napisane na tym forum jest fikcją. 
+zdarzenia, osoby, miejsca i rzeczy istnieją tylko w mojej głowie.
+·······························································
+Witkacy
+
+ 744 /
+ 28 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Witkacy » 
+10 sierpnia 2014
+
+ Cytuj
+
+ Zgłoś
+
+Źródła naukowe:
+1.Nicotinic and Opioid Receptor Interactions in Nicotine Addiction
+http://triggered.edina.clockss.org/Serv ... 1.full.pdf
+
+2.Opiate And Nicotine Have Surprisingly Similar Effect On Brain's Reward System
+http://www.sciencedaily.com/releases/20 ... 171131.htm
+
+Spoiler:Maybe the Chinese were using second class citizens as guinea pigs for the initial human trials of their new drugs.
+Kwiecień plecień co przeplata trochę kwasa, trochę lata
+·······························································
+sqciu
+
+ 267 /
+ 15 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: sqciu » 
+29 sierpnia 2014
+
+ Cytuj
+
+ Zgłoś
+
+Wybacz mi pisałem tamtego posta po kilka godzinach czytania różnych prac naukowych tyczących się tego tematu. Majka oczywiście nawet bez UDP wpływa na receptory opioidowe, jednakże jej metabolit m6g wykazuje o wiele silniejsze działania przeciwbólowe(ale sprawa jest tak zagmatwana że błagam; nie pytajcie o szczegóły.
+
+Co do "Twojej" teori kodeinowej, to niemal 15 lat temu zostało udowodnione działanie C6G, argumentacja była podobna, jeżeli sam na to wpadłeś to szacun, badania jednakże zostały już przeprowadzone więc nie ma konieczności ich powtarzania. Nigdzie niestety nie udało mi się dorwać owej pracy w całości więc nie będę jej przytaczał.
+
+Na pewno zainteresuje Cię informacja że wstrzyknięcie szczurom C6G wywołuje podobny efekt przeciwbólowy co podanie kodeiny; wedle badań metabolit ten odpowiada za 60%"mocy" kody, trzeba jednak pamiętać że co innego działanie przeciwbólowe co innego rekreacyjne. Wszystko wskazuje że za resztę odpowiada morfina i jej metabolit, choć spotkałem się z teorią że w tym przypadku tylko m6g ma znaczenie.
+
+Wzorowane na inf z Pubmed i Pubchem. Konkretny linków nie chce mi się szukać
+
+Jest jeszcze teoria że c6g, koda i norkoda są aktywne w tym samym stopniu, ale dowodów na to nie znalazłem i wydaje się to bzdurą.
+
+Kiedy celem jest brak celu.
+Sex, drugs &AMP; rap - to mój przepis na życie.
+·······························································
+PanAdolf
+
+ 9 /
+ 1 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: PanAdolf » 
+30 sierpnia 2014
+
+ Cytuj
+
+ Zgłoś
+
+Ten temat dał mi do myślenia dlaczego koda na mnie nie działa. I tu się pojawia pytania do drogich forumowiczów - czy ktoś jeszcze "choruje" na zespół Gilberta i kodeina go nie kopie?? Nigdy nie wiązałem tych dwóch faktów, ale jeśli to co pisze tur3k jest prawdą to nieprawidłowa czynność UDP-glukuronylotransferazy może mieć jakiś związek z tym smutnym dla mnie zjawiskiem.
+·······························································
+Medyk_
+
+ 193 /
+ 19 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Medyk_ » 
+21 września 2014
+
+ Cytuj
+
+ Zgłoś
+
+Jeśli w próbie z luminalem, diagnoza się potwierdzi, to moja przyjaciółka z ww syndromem, chętnie zostanie obiektem badawczym, szczególnie, że z opio styczności nie miała, poza kilkoma razami z oxycodonem, który to, działał na nią doskonale, w normalnych (20-40mg) "startowych" dawkach rekreacyjnych dla osoby nie mającej styczności z opio. W sumie, próbę z kodeiną można by przeprowadzić choćby i zaraz, jednak bardziej miarodajna będzie po : 
+1. Pełnym potwierdzeniu diagnozy dot. syndromu Gilbert'a np. próbą luminalową (pewnie zacznie w poniedziałek) 
+2. Podaniu kilka razy oxy, wtedy nie będzie fałszowania wyniku opcją wynikającą z nie wyrobienia opio receptorów i szokiem/nagłą odmianą, jaką niewątpliwie jest wprowadzenie opio do jadłospisu ;)
+@PanAdolf czy poza kodą, jakiś inny prolek działa na Ciebie inaczej ? Myślę tu np. o tramadolu, a raczej jego z O-demetylowanym metabolicie? Sam GS jest nie w pełni zbadanym schorzeniem, więc mamy tu pole do popisu na gruncie "badawczym".
+Bardzo mnie ciekawi, co z tego wyniknie, tylko cholera, przydała by się większa grupa ludzi takich, jak moja przyjaciółka, którzy idealnie pasują do profilu "badania"/"doświadczenia", czyli nie mający styczności z opio/kodą i w ogóle żadnymi sbst psychoaktywnymi, oczywiście chorych, na GS.
+
+Liczę więc na współpracę, pisz śmiało na pw. 
+
+Co do reszty userów, prosiłbym Was, szanowni hyperowicze, o podrzucanie pomysłów, co mogliby jeszcze chorzy na GS, przetestować, nigdy nie zagłębiałem się aż tak w szlaki metaboliczne kody/tramadolu, bo działały idealnie, nie mówiąc już o innych substancjach, których działanie może być potencjalnie modyfikowane, przez rzeczony syndrom.
+"Ktokolwiek widział, ktokolwiek wie", cokolwiek, proszony o kontakt. Czego się nie robi dla kochanej Pani Nauki ;)
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: tur3k » 
+30 września 2014
+
+ Cytuj
+
+ Zgłoś
+
+Musicie mi wybaczyć, że na Wasze posty odpisze innym razem, dziś nie mam do tego głowy.
+
+Ale wpadła mi pewna ciekawa rozkmina i póki pamiętam to chciałbym się nią podzielić. Zarzuciłem dziś 300mg, lamotryginę brałem bodajże przedwczoraj (200mg). Pojawił się peak, słodkie upierdolenie, ale trwało jakieś 15-20 minut. Zjedzenie ciepłego obiadu i przepalenie szlugiem trochę podtrzymało ten stan. A
+
+Ale do rzeczy: skoro HDCA jest odpowiedzialny za tworzenie C3G i C6G, które się pojawiły i zadziały jak trzeba, ale krótko, to co w takim razie powoduje błyskawiczny metabolizm w/w związków do jakiś nieczynnych metabolitów. Jest to coś, co hm (na moje oko) konkuruje z HDCA i gdy on przeważa, to 'to drugie' działa znacznie wolniej (coś na zasadzie konkurencji w stosunku do cząsteczki), nie wiem czy schemat agonista <-> antagonista [albo odwrotny agonista - nie myślę dzisiaj, sorry] tutaj pasuje (w przenośni oczywiście, bo receptory mamy cały czas sprawne i nie zablokowane), ale nic lepszego mi w tym momencie do głowy nie przychodzi.
+
+W skrócie: HDCA zmienia kodeinę w C3G i C6G trzymając ją w ryzach przez jakiś czas aby za szybko się nie rozpadła do nieaktywnych związków przez 'to coś', które działa na pełnych obrotach przy niedoborze HDCA i przyspiesza rozpad aktywnych metabolitów kodeiny.
+
+No one survived.
+·······························································
+Grentoo
+
+ 993 /
+ 16 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Grentoo » 
+02 października 2014
+
+ Cytuj
+
+ Zgłoś
+
+Brałem swego czasu sporo lamotryginy, ale... szczerze, nie umiem powiedzieć, czy kodeina po niej działała inaczej - musiałbym sprawdzić, wziąć 200mg lamo i potem kodeine - choć chyba mogę nawet i teraz powiedzieć, że na lamo kodeina działała krócej, bo np teraz mimo większej tolerki peak potrafię czuć 1.5h, na lamo max. 45 min (15 minut wejście 20-25minut działania). Swoją drogą jakiś tydzień temu razem ze znajomym jedliśmy bupropion - silny inhibitor CYP2D6, i na obu z nas kodeina działała tak jak trzeba, co w sumie już dawien dawno zauważyłem, że inhibicja tego enzymu, indukcja nie wiele zmienia.
+Szukając za to induktorów enzymów które "glukoronują" kodeine (nie jestem pewien jak to zapisać tudzież odmieniać) znalazłem tylko barbiturany. Nie mam jednak skąd ich wytrzasnąć - choć coś zabawnego się stało, koło tygodnia po myśleniu o tym indukowaniu enzymów kodeiny barbituranami moja daleka znajoma zjadła 1G luminalu do 3 paczek kody - skończyła w szpitalu przez depresje oddechową i z nie pamięcią wsteczną (rzecz jasna nic jej o tym nie mówiłem że to może wzmacniać, sama się obżarła bo chciała mocniej + mądrala potem wódki się napiła)
+
+SHHHHHEEEEEEEEIIIITT
+·······························································
+sqciu
+
+ 267 /
+ 15 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: sqciu » 
+02 października 2014
+
+ Cytuj
+
+ Zgłoś
+
+@tur3k
+skup się na UDP a nie HDCA o którym niewiele wiadomo.
+
+@UP
+Poza lekami stosowanymi przy AIDS do których raczej też nie masz dostępu, induktorem jest jeszcze ponoć resveratrol.
+
+Kiedy celem jest brak celu.
+Sex, drugs &AMP; rap - to mój przepis na życie.
+·······························································
+Grentoo
+
+ 993 /
+ 16 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Grentoo » 
+03 października 2014
+
+ Cytuj
+
+ Zgłoś
+
+Heh, dostęp mam (kierownika apteki blisko znam co lubi się zabawić i nie ma wątów o załatwianie recept), jednak bez refundacji to nie mam jak kupić - bo są raczej drogie.
+
+Resveratrol także kosztuje, szczególnie że szukałem info takich pi-razy oko ile tego by trzeba zjeść - i wychodzi bardzo drogo. (nie pamiętam dokładnych danych, jakiś czas temu szukałem induktorów ale wszystko rozbija się o cenę)
+
+SHHHHHEEEEEEEEIIIITT
+·······························································
+sqciu
+
+ 267 /
+ 15 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: sqciu » 
+03 października 2014
+
+ Cytuj
+
+ Zgłoś
+
+luminal(1g) bez refundacji kosztuje ~6zł, więc nie przesadzajmy z tą ceną. Inna sprawa że barbiturany nie bez powodu zostały wyparte przez benzo, przykład Twojej koleżanki pokazuje że nie zbyt mądre jest łączenie opiatów z barbi( z benzo zresztą też), zresztą nawet gdyby nie były induktorami to same w sobie nasilają działanie opio. Leki arv z tego co mi wiadomo są dostępne tylko na zieloną receptę, więc występują tylko w formie "refundowanej". Tylko czy warto niszczyć wątrobę czy nawet ryzykować życie dla zaoszczędzenia tych kilku zł.?
+
+Kiedy celem jest brak celu.
+Sex, drugs &AMP; rap - to mój przepis na życie.
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: tur3k » 
+11 lutego 2015
+
+ Cytuj
+
+ Zgłoś
+
+Pytanie bardziej z zakresu farmakokinetyki, ale mniejsza: jest jakiś sposób, aby spowolnić rozkład aktywnych metabolitów kodeiny do ich nieaktywnych psychoaktywnie produktów ? Z doświadczenia napiszę, że nie warto podczas działania kody palić szlugów, znacząco skracają fazę jak i powodują bardziej chujowe 'zejście'. Trudno się powstrzymać, ale spróbujcie i zobaczycie, że warto ;) Tylko trzeba przezwyciężyć to uczucie 'czegoś mi tu jeszcze brakuje do pełni fazy', nie jest to jednak szczególnie trudne. Najlepiej zapalić tak najpóźniej 15-20 minut przed zarzuceniem kody a kolejnego szluga odpalić jak działanie będzie już na tyle słabe, że nie będzie dostarczać przyjemności.
+scalono - aire
+I kolejne pytanie z zakresu farmakokinetyki: jaki mechanizm / jak to działa, że tolerancja w moim (i pewnie nie tylko, na świecie jest pierdyliard ludzi) przypadku objawia się nie słabnącym działaniem tej samej dawki (a nawet niższe dawki robią mnie lepiej niż wyższe, ale to temat na kolejną rozkminę) a jej krótszym działaniem ? Ewentualnie pod jakimi hasłami i gdzie szukać jakiś publikacji opisujących to dziwaczne zjawisko ?
+
+No one survived.
+·······························································
+aired
+
+ 366 /
+ 136 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: aired » 
+23 marca 2017
+
+ Cytuj
+
+ Zgłoś
+
+Dym tytoniowy zawiera substancje będące induktorami enzymów mikrosomalnych i dlatego może przyspieszać metabolizm kody i skracać działanie.
+
+Co do 2 pytania to... może w tej tolerancji chodzi nie tyle o desensetyzację receptorów opioidowych, co o efekt zwiększenia metabolizmu kodeiny jako naturalna odpowiedź organizmu na podawanie częstszych jej dawek? Taka zmiana adaptacyjna... Ale to tylko moja spekulacja.
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: tur3k » 
+23 marca 2017
+
+ Cytuj
+
+ Zgłoś
+
+Ad 1: wiem, dlatego palę dopiero po peaku jak już schodzi.
+Ad 2: to ma sens i w sumie ta teoria na ten moment jest jedyną słuszną - możesz napisać coś więcej o tej zmianie adaptacyjnej ? Interesują mnie szczegóły techniczne tego procesu (białka, neuroprzekaźnictwo, itp).
+
+No one survived.
+·······························································
+psycho112233
+
+ 187 /
+ 5 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: psycho112233 » 
+12 kwietnia 2017
+
+ Cytuj
+
+ Zgłoś
+
+paroksetyna silny inhibitor cyp2d6 całkowicie zabija działanie rekreacyjne kody nawet do 3 tyg po odstawieniu tego SSRI..... Po ok miesiącu od odstawki koda klepie jak trzeba
+·······························································
+Dextem
+
+ 987 /
+ 37 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Dextem » 
+17 sierpnia 2017
+
+ Cytuj
+
+ Zgłoś
+
+Nie zgodzę się, ponieważ biorę paroksetynę, a kodeina działa na mnie bardzo dobrze. Nie jest to może taka faza jak wcześniej, jednak mam mocno podbitą tolerkę, i takie 450mg robi mnie bardzo przyjemnie. Wiadome, nie na każdego będzie tak działać, jednak nie do końca pewne jest, że branie paroksetyny całkowicie eliminuje przyjemność po kodeinie. Są różne przypadki. Mnie fajnie kopało, mimo, że brałem 30mg dziennie. Teraz powoli schodzę z dawki i zobaczymy jak to będzie :) Ogólnie o tyle lepiej, że przez branie paroksetyny ograniczyłem picie alkoholu, więc uspokoił mi się żołądek :)
+
+Uwaga! Użytkownik Dextem nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+aired
+
+ 366 /
+ 136 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: aired » 
+17 sierpnia 2017
+
+ Cytuj
+
+ Zgłoś
+
+Istnieją wolni lub szybcy metabolizerzy izoenzymu CYP2D6... szybcy mają więcej tego izoenzymu, więc w trakcie leczenia paroksetyną enzym ten może być zablokowany tylko częściowo... i wtedy po wzięciu kodeiny nastąpi pełne przekształcenie jej do morfiny i silne działanie. Wolni metabolizerzy mogą mieć enzym zablokowany całkowicie i wtedy koda ich nie ruszy.
+·······························································
+Dextem
+
+ 987 /
+ 37 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Dextem » 
+17 sierpnia 2017
+
+ Cytuj
+
+ Zgłoś
+
+[mention]aired[/mention], jesteś mądra i cudowna :) Właśnie takiej odpowiedzi oczekiwałem :) Czuję może lekki spadek mocy, ale nie na tyle, bym uważał branie jej za bezsensowne :) tak powiedzmy ukazuje 70-85% mocy.
+
+Uwaga! Użytkownik Dextem nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+Stteetart
+
+ 8243 /
+ 1514 /
+ 2
+
+Re: Kodeina - wątek ogólny vol. III
+Nieprzeczytany post
+autor: Stteetart » 
+13 stycznia 2018
+
+ Cytuj
+
+ Zgłoś
+
+Czytali?
+https://www.pharmgkb.org/pathway/PA146123006
+Przeniesiono do tematu "Farmakodynamika kodeiny"./pletz
+·······························································
+andyvdm1
+
+ 2 /
+ /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: andyvdm1 » 
+24 lutego 2018
+
+ Cytuj
+
+ Zgłoś
+
+Co ciekawe, kodeina na paroksetynie w dowolnej dawce działa (nawet 45mg wyczuwalne), przynajmniej na mnie. Po odstawieniu nie działa zupełnie! Już 2 tydzień bez ssri. Przypuszczam że te 3-4 tygodnie trzeba odczekać zanim zostanie produkowany enzym
+·······························································
+Dworzec PKP
+
+ 34 /
+ 7 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Dworzec PKP » 
+02 marca 2018
+
+ Cytuj
+
+ Zgłoś
+
+Co do postu z pierwszej strony - mam takie szczęście, że moja siostrzenica studiuje psychologię, jest na drugim roku. Od tego semestru zaczęła im się psychiatria. Jak to zwykle na pierwszym wykładzie, zaczęto mówić o wszystkim i o niczym, ale w jej notatkach przykuł moją uwagę jeden punkt - palenie papierosów może wpływać na skuteczność tabletek antykoncepcyjnych (abstrahując od zakrzepicy) i leków, które korzystają z cytochromu P450, czyli np. kody. Bo tak się składa, że nikotyna też korzysta z tego cytochromu (tylko pytanie, czy ta wciągana do płuc w takim samym stopniu, co podawana inną drogą). 
+
+No i tak: możliwe, że fajki niektórym podbijają działanie. Jest kilka tropów:
+A) antagonizm konkurencyjny, czyli kiedy 2 substancje konkurują o ten sam receptor. Podam przykład: zażywamy leki przeciwbólowe i na chorobę wieńcową. Jeśli wcześniej weźmiemy te na wieńcową, a po np. 3, 4 godzinach przeciwbólowe, to te drugie będą działały słabiej, bo przeciewieńcowe blokują receptory. 
+ALE z drugiej strony na niektórych fajki działają, tj. wzmacniają kodę. No i znowu - mamy coś takiego, jak synergizm, czyli 2 substancje się wspierają. Następnie: hiperaddycja: 2 substancje działają dużo mocniej. 
+
+Mamy kilka tropów, ale niestety brak badań naukowych na ten temat, wiadomo - względy etyczne.
+·······························································
+ChrisMoltisanti
+
+ 1016 /
+ 96 /
+ 0 
+
+Nieprzeczytany post
+autor: ChrisMoltisanti » 
+03 marca 2018
+
+ Cytuj
+
+ Zgłoś
+
+A to nikotyna nie wzmacnia kody bo jest (słaby, bo słabym) iMAO?
+
+The child is grown
+The dream is gone
+·······························································
+Dworzec PKP
+
+ 34 /
+ 7 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Dworzec PKP » 
+03 marca 2018
+
+ Cytuj
+
+ Zgłoś
+
+[mention]ChrisMoltisanti[/mention], rzecz w tym, że nie wszystkim wzmacnia, dlatego podałam kilka tropów, które można zbadać. Ale do tego potrzebna jest większa wiedza nt. farmakodynamiki, chemii itd.
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: tur3k » 
+22 marca 2018
+
+ Cytuj
+
+ Zgłoś
+
+02 marca 2018Dworzec PKP pisze:  A) antagonizm konkurencyjny, czyli kiedy 2 substancje konkurują o ten sam receptor. Podam przykład: zażywamy leki przeciwbólowe i na chorobę wieńcową. Jeśli wcześniej weźmiemy te na wieńcową, a po np. 3, 4 godzinach przeciwbólowe, to te drugie będą działały słabiej, bo przeciewieńcowe blokują receptory. 
+Raczej odpada, nikotyna działa na receptory nAChRs (oprócz nAChRa9 i nAChRa10 gdzie działałaby jako antagonista). Wprawdzie zwiększa wydzielanie endogennych opioidów, ale nie sądzę aby to miało znaczenie w tym temacie (jak i we wzmocnieniu działania kodeiny, ale o tym za moment). nikotyna indukuje wyrzut dopaminy poprzez cholinergiczno-dopaminergiczy szlak nagrody (cholinergic–dopaminergic reward link) w polu brzusznym nakrywki i dlatego może wzmacniać euforię po kodeinie. Ogólnie samo działanie nikotyny na neurony dopaminergiczne jest bardzo złożone i można by na ten temat napisać obszerną publikację, która i tak by nie zawarła wszystkich szczegółów :-) 
+02 marca 2018Dworzec PKP pisze: ALE z drugiej strony na niektórych fajki działają, tj. wzmacniają kodę. No i znowu - mamy coś takiego, jak synergizm, czyli 2 substancje się wspierają.
+O tym wyżej napisałem (rozdzielanie tego na dwa cytaty byłoby dość pracochłonne i problematyczne).
+
+Jakbyś jeszcze wyjaśnił dlaczego palenie szlugów po kodeinie skraca jej działanie to byłoby super.
+Jak gdzieś walnąłem byka to proszę o poprawkę - pisałem na szybko to wszystko.
+
+No one survived.
+·······························································
+Dworzec PKP
+
+ 34 /
+ 7 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Dworzec PKP » 
+28 września 2018
+
+ Cytuj
+
+ Zgłoś
+
+* wyjaśniła
+Odkopuję temat. Znalazłam artykuły, które może coś powiedzą. Nie zagłębiałam się w nie jeszcze dokładnie i nie wiem, czy będzie tam odpowiedź wprost, czy może trzeba będzie wydedukować.
+1) https://www.sciencedaily.com/releases/2 ... 115554.htm
+
+Nicotine gives brain more codeine relief, risk of addiction
+
+2) Może na forum po sąsiedzku coś się znajdzie
+https://drugs-forum.com/threads/does-sm ... uzz.97963/
+
+Smoking - Does smoking inhance codeine "buzz"?
+
+3) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4916647/
+
+Nicotine Increases Codeine Analgesia Through the Induction of Brain CYP2D and Central Activation of Codeine to Morphine
+
+I nadal powątpiewam, czy można brać pod uwagę nikotynę w postaci dymu wciąganego dp płuc. Jej działanie może być inne niż podawana drogą doustną, kiedy rzeczywiście wątroba się nią zajmuje.
+Do boju.
+·······························································
+KickInTheEye
+
+ 657 /
+ 92 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: KickInTheEye » 
+28 września 2018
+
+ Cytuj
+
+ Zgłoś
+
+w pierwszym linku mowa jest o metabolizmie mózgowym kodeiny i o palaczach, to raczej nie jest tylko kwestia wątroby, z tego co tam czytam (nie skończyłem jeszcze właściwie)
+Spoiler:People with more of this enzyme in their brain, whether due to genetic factors, smoking, vaping or other nicotine use, might be getting more pain relief but could be at greater risk of codeine dependence.People with more of this enzyme in their brain, whether due to genetic factors, smoking, vaping or other nicotine use, might be getting more pain relief but could be at greater risk of codeine dependence.
+piszą też, że poziom nikotyny w mózgu też jest zależny od jakiegos enzymu (nie wyłapałem jakiego, chyba nie podali) i różni się u różnych osób, dużo tu zmiennych :)
+
+Ostatnio zmieniony 28 września 2018 przez KickInTheEye, łącznie zmieniany 2 razy.
+
+Uwaga! Użytkownik KickInTheEye nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+Dworzec PKP
+
+ 34 /
+ 7 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: Dworzec PKP » 
+28 września 2018
+
+ Cytuj
+
+ Zgłoś
+
+No właśnie, ale mówię, że nie wiem czy przy dymie procesy w wątrobie zachodzą na tyle, by móc posiłkowac się innymi badaniami dotyczącymi nikotyny w formie oralnej
+·······························································
+KickInTheEye
+
+ 657 /
+ 92 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: KickInTheEye » 
+28 września 2018
+
+ Cytuj
+
+ Zgłoś
+
+ale o co chodzi? z badania wynika, że dym wpływa na metabolizm kodeiny ( smoking, vaping or other nicotine use, might be getting more pain relief but could be at greater risk of codeine dependence ). chodzi Ci o to, czy przyjęta oralnie też wywiera wpływ? bo się pogubiłem trochę
+
+Uwaga! Użytkownik KickInTheEye nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+TraktOor
+
+ 65 /
+ 11 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: TraktOor » 
+10 listopada 2021
+
+ Cytuj
+
+ Zgłoś
+
+Ogolnie odkopuje temat. nikotyna sama w sobie nie powoduje skrócenia fazy kodeinowej, bo jest metabolizowana przez inne cytochromy P450, co najwyżej lekko spłyca sedacje z racji działania stymulującego. Za skrócenie działania może odpowiadać jakieś inne gowno w dymie tytoniowym, tak jak w przypadku kofeiny. 
+
+Á propos działania rekreacyjnego to idąc za narkopedią dawka dożylna bez tolerancji to 2-10mg, a kodeiny p.o. 150mg więc dość mocno się równają (koda jest rozkładana w 5-10% do morfiny, a i sama w sobie lekko działa). Na mój rozum nie ma już luki w farmakodynamice między tymi związkami, aby c6g musiał ją zapełniać, a nawet w angielskiej wiki(wiem, bardzo wiarygodne źródło, ale badania pokazują mi tylko „abstract” a pubchem woli pokazywać dużo wzorów strukturalnych zamiast farmakodynamiki) jest napisane, że odpowiada za część efektów analgetycznych, a nie sedatywnych lub euforycznych. Ewentualnie może być ta słynna różnica w teorii a praktyce
+
+"Dosis facit venenum"
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: tur3k » 
+05 stycznia 2023
+
+ Cytuj
+
+ Zgłoś
+
+Ciekawostka: 
+Codeine is also metabolized by an unknown mechanism to produce hydrocodone in quantities reaching up to 11% of the codeine concentration found in urinalysis. (58) The clinical effect of the hydrocodone metabolite of codeine is unknown.
+Źródłó: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2704133/
+
+I tu jeszcze ciekawiej (58): 
+In the controlled study, codeine was detected in the first post-drug-administration specimen from all subjects. Peak concentrations appeared at 2-5 h and ranged from 1475 to 61,695 ng/mL. Codeine was detected at concentrations above the 10-ng/mL limit of quantitation for the assay throughout the 40-h collection period. Hydrocodone was initially detected at 6-11 h following codeine administration and peaked at 10-18 h (32-135 ng/mL). Detection times for hydrocodone following oral codeine administration ranged from 6 h to the end of the collection period. Confirmation of hydrocodone in a urine specimen was always accompanied by codeine detection. Codeine and hydrocodone were detected in all specimens collected from the postoperative patient, and concentrations ranged from 2099 to 4020 and 47 to 129 ng/mL, respectively. Analyses of the codeine formulations administered to subjects revealed no hydrocodone present at the limit of detection of the assay (10 ng/mL). These data confirm that hydrocodone can be produced as a minor metabolite of codeine in humans and may be excreted in urine at concentrations as high as 11% of parent drug concentration. 
+Źródło: https://pubmed.ncbi.nlm.nih.gov/11043655/
+
+Nie widziałem nigdzie na forum o tym wzmianki, a temat wydaje się na tyle ciekawy, że może warto spojrzeć na to pod tym kątem ? 
+Hydrokodonu ani tego typu rzeczy nie jadłem, więc nie mam praktycznego porównania (czas działania, siła uzależnienia, długość skręta - a ten po kodeinie jest akurat wyjątkowo paskudny).
+
+No one survived.
+·······························································
+SlawomirAnonim
+
+ 408 /
+ 14 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: SlawomirAnonim » 
+12 stycznia 2023
+
+ Cytuj
+
+ Zgłoś
+
+Co rozumiesz przez "paskudny skręt po kodzie", jakie dawki i jaki czas ciągu? Bo trochę siedzę w temacie i pozwolę się do konca nie zgodzić.
+
+"Świat który stworzyłem był kaleki.Chciałem bólu prawdy"
+Mikołaj Jaska
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: Farmakodynamika kodeiny.
+Nieprzeczytany post
+autor: tur3k » 
+15 stycznia 2023
+
+ Cytuj
+
+ Zgłoś
+
+Skręt fizyczny to nic, trwa może 2, maksymalnie 3 dni. Gorzej z psychicznym, ten potrafi się ciągnąć tygodniami, do tego nawet jak wydaje się, że wszystko już jest ok to nagle z zaskoczenia potrafi wrócić ze zdwojoną siłą - takie pierdolnięcie ochoty na zażycie, że naprawdę trudno jest je przezwyciężyć. Ale to chyba kwestia osobnicza, choć dużo osób pisało, że ma podobnie.
+
+No one survived.

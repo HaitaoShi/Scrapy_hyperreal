@@ -1,0 +1,94 @@
+Dieta przy IMAO
+https://hyperreal.info/talk/dieta-przy-imao-t35702.html
+
+astralnykutas
+
+ 1253 /
+ 4 /
+ 0 
+
+Dieta przy IMAO
+Nieprzeczytany post
+autor: astralnykutas » 
+15 czerwca 2012
+
+ Cytuj
+
+ Zgłoś
+
+Witam,
+
+Czy powinienem stosować specjalną dietę stosując IMAO (deprim forte - bez recepty) ?
+Czy faktycznie mechanizm dzialania dziurawca opiera sie tylko i wylacznie o imao?
+
+W mojej codziennej diecie, ktora praktykuje przez cale zycie zawsze bylo mnostwo produktow mlecznych jak np jogurty pitne, serki wiejskie jak i samo mleko.
+Produkty, ktore dlugo dojrzewaja (szczegolnie sery zolte itp) podobno zawieraja tyramine, ktora nie moze byc dobrze zmetabolizowana, poniewaz brakuje mi enzymu monoaminoksydazy (mao) w zwiazku z tym wykazuje ona dzialanie podobne do adrenaliny, co moze prowadzic do niedokrwienia miesnia sercowego.
+
+Czy przy stosowaniu deprim forte powinienem na to bardzo zwracac uwage? Na ulotce nie doszukalem sie szczegolnych informacji...
+Czy produkty w postaci zwyklego mleka czy tez jogurtu pitnego zawieraja na tyle duze ilosci tyraminy, ze powinienem sie ich wystrzegac?
+·······························································
+howlman
+
+ 576 /
+ 10 /
+ 0 
+
+Re: Dieta przy IMAO
+Nieprzeczytany post
+autor: howlman » 
+15 czerwca 2012
+
+ Cytuj
+
+ Zgłoś
+
+Dziurawiec nie jest MAOI, aktywuje on receptor jonowy TRPC6 co wywołuje wychwyt zwrotny następujących neurotransmiterów (w kolejności od najsilniejszego):
+Neurotransmitter---IC50 (μg/mL)
+
+NA--------------------0.043 ± 0.013 - noradrenalina
+DA--------------------0.055 ± 0.010 - dopamina
+GABA-----------------0.099 ± 0.022 - kwas gamma-aminomasłowy
+5-HT------------------0.110 ± 0.024 - serotonina
+L-Glutamate---------0.445 ± 0.369 - kwas L-glutaminowy
+
+Uwaga! Użytkownik howlman nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+astralnykutas
+
+ 1253 /
+ 4 /
+ 0 
+
+Re: Dieta przy IMAO
+Nieprzeczytany post
+autor: astralnykutas » 
+15 czerwca 2012
+
+ Cytuj
+
+ Zgłoś
+
+Dzieki za bardzo konkretna odpowiedz.
+
+Czy dane, ktore podales dotycza akurat deprimu forte zawierajacego 425mg wyciagu z dziurawca?
+
+Czy istnieja jakies statystyki porownujace zwiekszenie wychwytu zwrotnego poszczegolnych neuroprzekaznikow w popularnych SSRI wzgledem dziurawca?
+·······························································
+howlman
+
+ 576 /
+ 10 /
+ 0 
+
+Re: Dieta przy IMAO
+Nieprzeczytany post
+autor: howlman » 
+15 czerwca 2012
+
+ Cytuj
+
+ Zgłoś
+
+Z tego co wiem deprim jest standaryzowany na hiperycynę, a nie na hiperforynę której właściwości tutaj podałem. Hiperycyna ma tylko działanie fotouczulające. Polecałbym jako antydepresant nalewkę zrobioną samemu lub kupioną w aptece. Żaden antydepresant obecny na rynku nie ma chyba takiego szerokiego spektrum działania jak dziurawiec, jednocześnie przy zmniejszonej ilości efektów ubocznych.
+
+Uwaga! Użytkownik howlman nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.

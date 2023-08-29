@@ -1,0 +1,238 @@
+ASRI - mechanizm działania
+https://hyperreal.info/talk/asri-mechanizm-dzialania-t39476.html
+
+FrozenSynapse
+
+ 408 /
+ 2 /
+ 0 
+
+ASRI - mechanizm działania
+Nieprzeczytany post
+autor: FrozenSynapse » 
+31 maja 2013
+
+ Cytuj
+
+ Zgłoś
+
+Taki temacik aby rozkręcić ten dział.
+
+Na polskiej wikipedii pod hasłem escitalopram jest napisane: Klasyfikowany do nowej podgrupy: ASRI (allosteric serotonin reuptake inhibitor). 
+Hasło 'allosteryczny' jest tutaj kluczem, którego nie potrafię do końca rozkminić. Fachowe opisy mi za wiele nie mówią (biochemia level hard), a wiki rzecze:
+Allosteria – zmiana powinowactwa chemicznego białka do cząsteczek [...], przez zmianę struktury przestrzennej.
+Załóżmy teoretycznie (pomijając moje pierdolenie, które na pewno się pojawi jeśli się to już nie stało), że sytuacja wygląda tak:
+
+[ external image ]
+
+Są 3 rysunki:
+1) jest receptor i substancja która ma się do niego przyłączyć
+2) substancja przyłącza się do receptora, ale..
+3) w wyniki jego nieprawidłowego kształtu cząsteczka jest rozrywana przez co neuroprzekaźnik nie działa do końca jak powinien
+
+[ wiem że w tym schemacie chodzi o coś zgoła innego, ale nie miałem lepszego przykładu pod ręką; zaczerpnięte z Biochemii Harpera, z której nic nie rozumiem ]
+
+Czyli co ? Substancja będąca allosteryczną (jak escitalopram) jest w stanie powiedzmy zmienić kształt receptora serotoninowego tak, aby się ona do niego w odpowiedni sposób przyłączała (cząsteczka nie byłą rozrywana - jak na schemacie) ? Oczywiście na przykładzie ASRI nie działoby się to natychmiast, a powiedzmy po odpowiednim czasie przyjmowania leku.
+Z drugiej strony gdzieś czytałem, że to jest klasyczny SSRI o mniejszych efektach ubocznych, a słowo 'allosteric' dorobiła sobie firma, która owy lek stworzyła :) Ale nie o tym mowa, więc tą kwestię można pominąć milczeniem.
+
+Sorry za nienaukowy bełkot, ale inaczej nie potrafiłem tego napisać a nurtuje mnie ta kwestia od pewnego czasu.
+
+Ostatnio zmieniony 01 czerwca 2013 przez surveilled, łącznie zmieniany 1 raz.
+Powód: Poprawka tematu i opisu wątku	
+
+Uwaga! Użytkownik FrozenSynapse nie jest już aktywny na hyperrealu. Nie odpowie na próbę kontaktu, ani nie przeczyta odpowiedzi na post.
+·······························································
+Berig
+
+ 766 /
+ 133 /
+ 6
+
+Re: ASRI - mechanizm działania
+Nieprzeczytany post
+autor: Berig » 
+06 czerwca 2013
+
+ Cytuj
+
+ Zgłoś
+
+"Nazwa allosteryczny inhibitor wychwytu zwrotnego serotoniny (ASRI) jest związana z podwójnym mechanizmem działania escitalopramu. Lek ten modyfikuje przestrzennie receptor serotoninowy (transporter serotoniny), a następnie wywiera na niego selektywny wpływ hamujący wychwyt zwrotny neuroprzekaźnika. Ten pierwszy element, czyli modyfikacja struktury przestrzennej białka z którym wiąże się lek, jest wyróżnikiem działania escitalopramu." - modulatory allosteryczne zmieniają miejsca aktywne białek, przez co mogą one być dopasowane lub zablokowane wobec konkretnego rodzaju ligandów. 
+
+Źródło: http://www.lundbeck.com/upload/pl/files ... ASRI_1.pdf
+
+Harm reduction i rozsądek sposobami na to, drogi użytkowniku substancji psychoaktywnych, byś cieszył się pełnią efektów swych specyfików przez całe życie. 
+
+ZERO TOLERANCJI DLA TOLERANCJI!
+·······························································
+Mandark
+
+ 55 /
+ /
+ 0 
+
+Re: ASRI - mechanizm działania
+Nieprzeczytany post
+autor: Mandark » 
+24 czerwca 2013
+
+ Cytuj
+
+ Zgłoś
+
+Berig ogólnie wyjaśnił, ale ja trochę naprostuję Twoje myślenie :P
+FrozenSynapse pisze:
+Na polskiej wikipedii pod hasłem escitalopram jest napisane: Klasyfikowany do nowej podgrupy: ASRI (allosteric serotonin reuptake inhibitor). 
+Nie ma takiej nowej "podgrupy", to nie zmienia mechanizmu terapeutycznego tej substancji.
+
+Hasło 'allosteryczny' jest tutaj kluczem, którego nie potrafię do końca rozkminić. Fachowe opisy mi za wiele nie mówią (biochemia level hard), a wiki rzecze:
+
+Są 3 rysunki:
+1) jest receptor i substancja która ma się do niego przyłączyć
+2) substancja przyłącza się do receptora, ale..
+3) w wyniki jego nieprawidłowego kształtu cząsteczka jest rozrywana przez co neuroprzekaźnik nie działa do końca jak powinien
+Ten enzym na rysunku katalizuje (ułatwia) rozerwanie wiązania. To, że wiązanie pęka, jest jak najbardziej prawidłowe i pożądane :) Nie zachodzą tu oddziaływania allosteryczne, po prostu enzym zmienia konformację (kształt) pod wpływem przyłączenia substratu, naprężając wiązanie i ułatwiając jego zerwanie. Allosteryczne działanie pojawiłoby się, gdyby do enzymu przyłączyła się w innym miejscu (allosterycznym) jakaś cząsteczka, niebędąca substratem reakcji, i ułatwiłą bądź utrudniła normane działanie enzymu, np. ułatwiając przyłączanie się do niego substratu. Samo wiązanie allosteryczne nie wiąże się z zachodzeniem żadnej reakcji czy aktywowaniem enzymu/receptora, jedynie moduluje jako oddziaływanie z innymi cząsteczkami.
+Czyli co ? Substancja będąca allosteryczną (jak escitalopram) jest w stanie powiedzmy zmienić kształt receptora serotoninowego tak, aby się ona do niego w odpowiedni sposób przyłączała (cząsteczka nie byłą rozrywana - jak na schemacie) ? 
+Kilka wstępnych wyjaśnień: starszy lek, citalopram, składał się z dwóch "komponentów": (R)-citalopramu i (S)-citalopramu. Ponieważ patent na citalopram wygasał, producent wyizolował (S)-citalopram, nazwał go "escitalopram" i sprzedaje jako nowy lek.
+Nie mam teraz czasu, żeby się zagłębić, ale wygląda na to, że (R)-citalopram łączył się z miejscem allosterycznym transportera serotoniny (którego działanie blokują leki z grupy SSRI) i tym samym osłabiał wiązanie escitalopramu z tym transporterem. Dlatego escitalopram działa na transporter silniej niż mieszaninia (S)-citalopramu i escitalopramu.
+Z drugiej strony gdzieś czytałem, że to jest klasyczny SSRI o mniejszych efektach ubocznych, a słowo 'allosteric' dorobiła sobie firma, która owy lek stworzyła :) Ale nie o tym mowa, więc tą kwestię można pominąć milczeniem.
+Zapewne. To ciekawy aspekt działania leku, ale nie sprawia, że mechanizm terapeutyczny różni się czymkolwiek od innych leków z grupy SSRI.
+
+http://www.narkopolityka.pl/
+·······························································
+pyziulkaaa
+
+ 50 /
+ /
+ 0 
+
+Re: ASRI - mechanizm działania
+Nieprzeczytany post
+autor: pyziulkaaa » 
+24 listopada 2014
+
+ Cytuj
+
+ Zgłoś
+
+Nowa grupa niestety nie zawsze jest pomocna
+
+Respect
+·······························································
+Uroboros
+
+ 1795 /
+ 123 /
+ 0 
+
+Re: ASRI - mechanizm działania
+Nieprzeczytany post
+autor: Uroboros » 
+21 sierpnia 2016
+
+ Cytuj
+
+ Zgłoś
+
+Berig pisze:...Także i to badanie miało charakter wieloośrodkowy i obejmowało 44 ośrodki w 8 krajach Europy. Pacjenci otrzymywali 10-20 mg escitalopramu (146 osób) lub 75-150 mg wenlafaksyny XR (142 osoby). Jeśli chodzi o efektywność leczenia nie stwierdzono tu różnic natomiast różnice
+dotyczyły większej szybkości uzyskania odpowiedzi klinicznej na leczenie i osiągnięcia remisji w grupie pacjentów otrzymujących escitalopram. W analizie statystycznej pacjenci otrzymujący escitalopram ujawniali odpowiedź na leczenie 4,6 dnia wcześniej niż leczeni wenlafaksyną. Spośród pacjentów którzy uzyskali remisję, pacjenci otrzymujący escitalopram osiągali ją statystycznie o 6,6 dnia szybciej. Tak więc omówione wyżej wyniki badań wskazują na to, że escitalopram jest lekiem bardziej skutecznym klinicznie od citalopramu.
+Czyli citalopram słabszy, na odstawkę (S)-citalopramu jak znalazł. A, że do tego wyczytałem, że działa na zasadzie metadonu - jestem w siódmym niebie, bo sama tianeptyna ciśnienia na opio nie zwalcza skutecznie, albo nie w dawkach, co biorę.
+
+Któż nam powróci te lata stracone
+bez wiosennego w wiośnie życia nieba?...
+Wołają na nas, że w złą idziem stronę,
+precz o świat troskę rzucając powinną,
+a czy pytają się nas, co nam trzeba
+i czyśmy mogli obrać drogę inną?
+·······························································
+Berig
+
+ 766 /
+ 133 /
+ 6
+
+Re: ASRI - mechanizm działania
+Nieprzeczytany post
+autor: Berig » 
+08 września 2016
+
+ Cytuj
+
+ Zgłoś
+
+@up
+To nie tak. citalopram zawiera 50% aktywnego enancjomeru i 50% nieaktywnego, natomiast dawkowanie masz 2 razy większe niż dla escitalopramu ze zrozumiałych względów. 
+
+Co to znaczy, że działa na zasadzie metadonu? Wspólne jest tylko to, że oba są podawane jako lekarstwo w formie racematu.
+
+Harm reduction i rozsądek sposobami na to, drogi użytkowniku substancji psychoaktywnych, byś cieszył się pełnią efektów swych specyfików przez całe życie. 
+
+ZERO TOLERANCJI DLA TOLERANCJI!
+·······························································
+Uroboros
+
+ 1795 /
+ 123 /
+ 0 
+
+Re: ASRI - mechanizm działania
+Nieprzeczytany post
+autor: Uroboros » 
+09 września 2016
+
+ Cytuj
+
+ Zgłoś
+
+No ja zrozumiałem, że oddziałuje na receptory opioidowe w pewien sposób tak jak metadon czy bupra - wysyca receptory. I ćpać się odechciewa. Właśnie jadę do psychiatry, to co, próbować go ogarniać? Bo mi SSRI już całkiem odstawili, a to też niedobrze.
+
+Któż nam powróci te lata stracone
+bez wiosennego w wiośnie życia nieba?...
+Wołają na nas, że w złą idziem stronę,
+precz o świat troskę rzucając powinną,
+a czy pytają się nas, co nam trzeba
+i czyśmy mogli obrać drogę inną?
+·······························································
+tur3k
+
+ 2723 /
+ 192 /
+ 0 
+
+Re: ASRI - mechanizm działania
+Nieprzeczytany post
+autor: tur3k » 
+27 września 2016
+
+ Cytuj
+
+ Zgłoś
+
+Uroboros pisze:No ja zrozumiałem, że oddziałuje na receptory opioidowe w pewien sposób tak jak metadon czy bupra - wysyca receptory. I ćpać się odechciewa. Właśnie jadę do psychiatry, to co, próbować go ogarniać? Bo mi SSRI już całkiem odstawili, a to też niedobrze.
+Nie pomieszało ci się czasem z tianeptyną ? :-P Brałem kiedyś esci i jakiegokolwiek działania opioidowego (nawet progowego) nie stwierdzono.
+
+No one survived.
+·······························································
+Uroboros
+
+ 1795 /
+ 123 /
+ 0 
+
+Re: ASRI - mechanizm działania
+Nieprzeczytany post
+autor: Uroboros » 
+27 września 2016
+
+ Cytuj
+
+ Zgłoś
+
+Turas, ale ja właśnie piszę o citalopramie, w przypadku escitalopramu tego nie ma ;). A wiedzę opieram o ten link Beriga parę postów wyżej, jak masz trochę czasu to poczytaj, może też się dogadasz z psychiatrą, żeby ci citalopram przepisała :P.
+
+Któż nam powróci te lata stracone
+bez wiosennego w wiośnie życia nieba?...
+Wołają na nas, że w złą idziem stronę,
+precz o świat troskę rzucając powinną,
+a czy pytają się nas, co nam trzeba
+i czyśmy mogli obrać drogę inną?

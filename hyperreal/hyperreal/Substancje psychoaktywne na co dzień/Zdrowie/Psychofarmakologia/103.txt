@@ -1,0 +1,63 @@
+Proleki
+https://hyperreal.info/talk/prodrugs-t33587.html
+
+Mayday
+
+ 656 /
+ 8 /
+ 0 
+
+Proleki
+Nieprzeczytany post
+autor: Mayday » 
+28 listopada 2011
+
+ Cytuj
+
+ Zgłoś
+
+Od jakiegoś czasu nastąpił zastój na szarym rynku euforykow spowodowany delegalizacja mefedronu i bk-MDMA. Co prawda mamy wiele nowych wynalazków, z tych wartych wspomnienia 6-ABP i 5-ABP, lecz wiekszość, jest tylko nieudaną imitacją oryginałów.
+Dlatego też poruszam temat proleki.
+Czym jest prolek?
+Prolek zwany też po angielsku: prodrug, jest to substancja, tak zmodyfikowana, że w ciele ulega metabolizacji do pożadanej substancji, dajacej chciany efekt farmakologiczny. Prolek sam w sobie moze byc aktywny, jak i nieaktywny. Uzyskuje sie go przez dołączenie do cząsteczki grupy, ktora w ciele jest odłączana przez enzym, najczęsciej przez enzymy z rodziny Cytochromu P450 w procesie zwanyn też bioaktywacją, dajac w rezultacie reakcje: 
+drug*grupa <-> drug+grupa.
+Proleki sa tworzone zazwyczaj po to, by zwiększyć biodostępność, czyli polepszyć wchłanianie do pożądanych tkanek, zmniejszenia toksyczności, polepszenia stabilności, nawet smaku i zapachu a w naszym przypadku, mogłyby być wykorzystane do ominięcia absurdalnego prawa antynarkotykowego, ośmieszając je jednocześnie.
+
+Klasyfikacja proleków:
+Wyróżniamy dwa główne typy: Typ I ulegają bioaktywacji wewnątrz komórki, Typ II na zewnątrz komórki. 
+Dodatkowo można te typy podzielić jeszcze na podtypy, które szczegółowiej określając miejsce bioaktywacji: 
+
+Typ IA: polega na dostarczeniu cząsteczki do pożądanych komórek/tkanek
+Typ IB: metabolizm przez enzymy metaboliczne/trawienne (wątroba, jelito, płuco itd.)
+TYP IIA: płyny pokarmowe
+Typ IIB: układ krążenia i inne płynne przedziały zewnątrzkomórkowe
+Typ IIC: blisko pożądanych komórek/tkanek
+
+Możliwe jest, że bioaktywacja zachodzi w kilku miejscach jednocześnie, w takim wypadku używa się "/" i typy do jego określenia, np: Typ IA/IB. Jeśli natomiast aktywacja zachodzi sekwencyjnie (jedna po drugiej) używa się "-" i typy, np. Typ IIB-IA.
+
+Ze względu na rodzaj i ilość grup funkcyjnych dołączonych do pierwotnej cząsteczki rozróżniamy proleki:
+bipartyjne: złożone z jednej grupy przyczepionej do cząsteczki
+tripartyjne: grupa jest przyłączona przez łącznik
+codrug / wzajemny prolek: dwie cząsteczki połączone razem
+
+Typy grup funkcyjnych które ulegają usunięciu przez bioaktywacje: Fosforany, kwasy karboksylowe, glukany, estry, amidy, iminy, oksimy, acetale, oksazolidiny, N-zasady mannicha, N-alkany, acetoksyl
+
+A teraz przykłady samych cząsteczek które są prolekami.
+Będę używał strzałek -> by określić kierunek przemiany/bioaktywacje i jako że kilka różnych proleków może prowadzić do tej samej cząsteczki będę używał w tych miejscach X, a następnie te X będą opisane X∈{Y,Z}
+
+X->Psylocyna; X∈{Psylocybina, 4-Aco-DMT}
+X-> Morfina; X∈{6-monoacetylomorfina, Heroina, Kodeina}
+X-> Amfetamina; X∈{Clobenzorex, Amfecloral, Benzphetamine, Amphetaminil, Famprofazone, Lisdexamfetamine, Prenylamine}
+x-> GHB; X∈{GBL, 1,4-butanediol}
+X-> Dopamina; X∈{L-Dopa, Etilevodopa, Melevodopa}
+X-> Adrenalina; X∈{Dipivefrine, L-DOPS}
+Tramadol-> O-desmetyloltramadol
+Desglymidodrine-> Midodrine
+Phthalimidopropiophenone-> Katynon
+Dietylokatynon-> Etylokatynon
+
+Jak sami widzicie opcji jest mnóstwo i mam nadzieje, że w przyszłości zobaczymy wydajne proleki nielegalnych substancji, takie jak np. MDMA i mefedron.
+Jedyne minusy proleków które mi teraz przychodzą do głowy są te, że niektóre grupy potrzebują trochę czasu by zostać zmetabolizowane do aktywnej postaci, przez co niecierpliwi mogliby sobie zaszkodzić dorzucając więcej, do tego każda osoba ma troche inne proporcje enzymów które uczestniczą w bioaktywacji, dlatego działanie może sie różnic z osoby na osobe, a dla niektorych moga sie okazac nawet nieaktywne, oraz to, że niektóre mogą się rozłożyć na toksyczne związki, nie wspominając o dodatkowym zachodzie przy syntezie, np. konieczności użycia cząsteczki pierwotnej, do której ma się z powrotem rozłożyć prolek, która może być nielegalna.
+
+poprawiłem równania przynależności, kwestia formalna. - surveilled
+Poprawa błędów językowych i formatowania. Zmiany nie merytoryczne. - PcP
